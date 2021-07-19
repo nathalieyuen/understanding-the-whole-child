@@ -26,7 +26,7 @@ documentclass: book
 classoption: openany
 biblio-style: apalike
 link-citations: yes
-description: "This developmental psychology textbook is about physical, cogntive, and social development during childhood and adolescence.  Bookdown adaptation by C. Nathalie Yuen."
+description: "This developmental psychology textbook is about physical, cognitive, and social development during childhood and adolescence.  Bookdown adaptation by C. Nathalie Yuen."
 github-repo: nathalieyuen/understanding-the-whole-child
 cover-image: 'cover.png'
 ---
