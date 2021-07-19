@@ -1,0 +1,754 @@
+# Introduction to Child Development
+
+
+<style>
+div.solid {
+border: 5px solid #FFA500;
+border-radius: 5px;
+padding: 20px;
+}
+</style>
+
+<div class = "solid">
+
+After this chapter, you should be able to:
+
+1.  Describe the principles that underlie development.
+
+2.  Differentiate periods of human development.
+
+3.  Evaluate issues in development.
+
+4.  Distinguish the different methods of research.
+
+5.  Explain what a theory is.
+
+6.  Compare and contrast different theories of child development.
+
+
+
+
+Welcome to Child Growth and Development. This text is a presentation of how and why children grow, develop, and learn.
+
+We will look at how we change physically over time from conception through adolescence. We examine cognitive change, or how our ability to think and remember changes over the first 20 years or so of life. And we will look at how our emotions, psychological state, and social relationships change throughout childhood and adolescence.^[[Introduction to Lifespan, Growth and Development](https://courses.lumenlearning.com/lifespandevelopment2/chapter/52/) by [Lumen Learning](https://lumenlearning.com/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)]
+
+
+</div>
+
+<br/>
+
+## Principles of Development
+
+There are several underlying principles of development to keep in mind:
+
+* Development is lifelong and change is apparent across the lifespan (although this text ends with adolescence). And early experiences affect later development.
+
+* Development is multidirectional. We show gains in some areas of development, while showing loss in other areas.
+
+* Development is multidimensional. We change across three general domains/dimensions; physical, cognitive, and social and emotional. 
+
+	+ The physical domain includes changes in height and weight, changes in gross and fine motor skills, sensory capabilities, the nervous system, as well as the propensity for disease and illness.
+	
+	+ The cognitive domain encompasses the changes in intelligence, wisdom, perception, problem-solving, memory, and language. 
+	
+	+ The social and emotional domain (also referred to as psychosocial) focuses on changes in emotion, self-perception, and interpersonal relationships with families, peers, and friends. 
+
+        + All three domains influence each other. It is also important to note that a change in one domain may cascade and prompt changes in the other domains.
+
+* Development is characterized by plasticity, which is our ability to change and that many of our characteristics are malleable. *Early experiences are important, but children are remarkably resilient (able to overcome adversity)*.
+
+* Development is multicontextual.^[[Lifespan Development: A Psychological Perspective](http://dept.clcillinois.edu/psy/LifespanDevelopment.pdf) by Martha Lally and Suzanne Valentine-French is licensed under [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/) (modified by Jennifer Paris)]  We are influenced by both nature (genetics) and nurture (the environment) - when and where we live and our actions, beliefs, and values are a response to circumstances surrounding us.  The key here is to understand that behaviors, motivations, emotions, and choices are all part of a bigger picture.^[[Introduction to Lifespan, Growth and Development](https://courses.lumenlearning.com/lifespandevelopment2/chapter/52/) by [Lumen Learning](https://lumenlearning.com/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)]
+
+Now let’s look at a framework for examining development.
+
+
+## Periods of Development
+
+Think about what periods of development that you think a course on Child Development would address. How many stages are on your list? Perhaps you have three: infancy, childhood, and teenagers. Developmentalists (those that study development) break this part of the life span into these five stages as follows:
+
+* Prenatal Development (conception through birth)
+
+* Infancy and Toddlerhood (birth through two years)
+
+* Early Childhood (3 to 5 years)
+
+* Middle Childhood (6 to 11 years)
+
+* Adolescence (12 years to adulthood)
+
+This list reflects unique aspects of the various stages of childhood and adolescence that will be explored in this book. So while both an 8 month old and an 8 year old are considered children, they have very different motor abilities, social relationships, and cognitive skills. Their nutritional needs are different and their primary psychological concerns are also distinctive.
+
+### Prenatal 
+
+Conception occurs and development begins. All of the major structures of the body are forming and the health of the mother is of primary concern. Understanding nutrition, teratogens (or environmental factors that can lead to birth defects), and labor and delivery are primary concerns.
+
+
+```{r fig-1-1, out.width="50%", fig.cap="A tiny embryo depicting some development of arms and legs, as well as facial features that are starting to show.^[[Image](https://www.flickr.com/photos/28004184@N00/3233482244/) by [lunar caustic](https://www.flickr.com/photos/lunarcaustic/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)]"}
+
+knitr::include_graphics("figures/figure-01-01.jpg")
+
+```
+
+
+
+### Infancy and Toddlerhood
+The two years of life are ones of dramatic growth and change. A newborn, with a keen sense of hearing but very poor vision is transformed into a walking, talking toddler within a relatively short period of time. Caregivers are also transformed from someone who manages feeding and sleep schedules to a constantly moving guide and safety inspector for a mobile, energetic child.
+
+
+```{r fig-1-2, out.width="50%", fig.cap="A swaddled newborn.^[[Image](https://unsplash.com/photos/aArY37QMhuc) by [Han Myo Htwe](https://unsplash.com/@hanmyohtwe) on [Unsplash](https://unsplash.com/)]"}
+
+knitr::include_graphics("https://images.unsplash.com/photo-1537544176619-f79b157c634b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=752&q=80")
+
+```
+
+
+### Early Childhood
+Early childhood is also referred to as the preschool years and consists of the years which follow toddlerhood and precede formal schooling. As a three to five-year-old, the child is busy learning language, is gaining a sense of self and greater independence, and is beginning to learn the workings of the physical world. This knowledge does not come quickly, however, and preschoolers may initially have interesting conceptions of size, time, space and distance such as fearing that they may go down the drain if they sit at the front of the bathtub or by demonstrating how long something will take by holding out their two index fingers several inches apart. A toddler’s fierce determination to do something may give way to a four-year-old’s sense of guilt for action that brings the disapproval of others.
+
+```{r fig-1-3, out.width="50%", fig.cap="Two young children playing in the Singapore Botanic Gardens.^[[Image](https://unsplash.com/photos/0N4UJja6jEU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) by [Alaric Sim ](https://unsplash.com/@cirala_sky) on [Unsplash](https://unsplash.com/)]"}
+
+knitr::include_graphics("https://images.unsplash.com/photo-1516890896652-41ca1a35787c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=601&q=80")
+
+```
+
+
+
+### Middle Childhood
+The ages of six through eleven comprise middle childhood and much of what children experience at this age is connected to their involvement in the early grades of school. Now the world becomes one of learning and testing new academic skills and by assessing one’s abilities and accomplishments by making comparisons between self and others. Schools compare students and make these comparisons public through team sports, test scores, and other forms of recognition. Growth rates slow down and children are able to refine their motor skills at this point in life. And children begin to learn about social relationships beyond the family through interaction with friends and fellow students.
+
+```{r fig-1-4, out.width="50%", fig.cap="Two children running down the street in Carenage, Trinidad and Tobago.^[[Image](https://unsplash.com/photos/zYZZf6ZSEwI) by [Wayne Lee-Sing](https://unsplash.com/@jammette) on [Unsplash](https://unsplash.com/)]"}
+
+knitr::include_graphics("https://images.unsplash.com/photo-1524603642524-b02ea114f009?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80")
+
+```
+
+
+### Adolescence
+Adolescence is a period of dramatic physical change marked by an overall physical growth spurt and sexual maturation, known as puberty. It is also a time of cognitive change as the adolescent begins to think of new possibilities and to consider abstract concepts such as love, fear, and freedom. Ironically, adolescents have a sense of invincibility that puts them at greater risk of dying from accidents or contracting sexually transmitted infections that can have lifelong consequences.^[[Periods of Development](https://courses.lumenlearning.com/lifespandevelopment2/chapter/periods-of-development/) by [Lumen Learning](https://lumenlearning.com/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)]
+
+
+
+```{r fig-1-5, out.width="50%", fig.cap="Two smiling teenage women.^[[Image](https://unsplash.com/photos/LIaLQ2SIQuk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) by [Matheus Ferrero](https://unsplash.com/@matheusferrero) on [Unsplash](https://unsplash.com/)]"}
+
+knitr::include_graphics("https://images.unsplash.com/photo-1503532036150-0266dd2f0969?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80")
+
+```
+
+
+There are some aspects of development that have been hotly debated. Let’s explore these.
+
+
+## Issues in Development
+
+### Nature and Nurture
+
+Why are people the way they are? Are features such as height, weight, personality, being diabetic, etc. the result of heredity or environmental factors-or both? For decades, scholars have carried on the "nature/nurture" debate. For any particular feature, those on the side of Nature would argue that heredity plays the most important role in bringing about that feature. Those on the side of Nurture would argue that one's environment is most significant in shaping the way we are. This debate continues in all aspects of human development, and most scholars agree that there is a constant interplay between the two forces. It is difficult to isolate the root of any single behavior as a result solely of nature or nurture.
+
+### Continuity versus Discontinuity
+
+Is human development best characterized as a slow, gradual process, or is it best viewed as one of more abrupt change? The answer to that question often depends on which developmental theorist you ask and what topic is being studied. The theories of Freud, Erikson, Piaget, and Kohlberg are called stage theories. Stage theories or discontinuous development assume that developmental change often occurs in distinct stages that are qualitatively different from each other, and in a set, universal sequence. At each stage of development, children and adults have different qualities and characteristics. Thus, stage theorists assume development is more discontinuous. Others, such as the behaviorists, Vygotsky, and information processing theorists, assume development is a more slow and gradual process known as continuous development. For instance, they would see the adult as not possessing new skills, but more advanced skills that were already present in some form in the child. Brain development and environmental experiences contribute to the acquisition of more developed skills.
+
+```{r fig-1-6, out.width="50%", fig.cap="The graph to the left shows three stages in the continuous growth of a tree. The graph to the right shows four distinct stages of development in the life cycle of a ladybug.^[[Image](https://nobaproject.com/modules/cognitive-development-in-childhood) by [NOBA](https://nobaproject.com/) on [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US)]"}
+
+knitr::include_graphics("https://nobaproject.com/images/shared/images/000/000/077/original.png")
+
+```
+
+
+
+### Active versus Passive
+
+How much do you play a role in your own developmental path? Are you at the whim of your genetic inheritance or the environment that surrounds you? Some theorists see humans as playing a much more active role in their own development. Piaget, for instance believed that children actively explore their world and construct new ways of thinking to explain the things they experience. In contrast, many behaviorists view humans as being more passive in the developmental process.^[[Lifespan Development: A Psychological Perspective](http://dept.clcillinois.edu/psy/LifespanDevelopment.pdf) by Martha Lally and Suzanne Valentine-French is licensed under [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)] 
+
+How do we know so much about how we grow, develop, and learn? Let’s look at how that data is gathered through research.
+
+
+## Research Methods
+
+An important part of learning any science is having a basic knowledge of the techniques used in gathering information. The hallmark of scientific investigation is that of following a set of procedures designed to keep questioning or skepticism alive while describing, explaining, or testing any phenomenon. Some people are hesitant to trust academicians or researchers because they always seem to change their story. That, however, is exactly what science is all about; it involves continuously renewing our understanding of the subjects in question and an ongoing investigation of how and why events occur. Science is a vehicle for going on a never-ending journey. In the area of development, we have seen changes in recommendations for nutrition, in explanations of psychological states as people age, and in parenting advice. So think of learning about human development as a lifelong endeavor.
+
+Take a moment to write down two things that you know about childhood. Now, how do you know? Chances are you know these things based on your own history (experiential reality) or based on what others have told you or cultural ideas (agreement reality) (Seccombe and Warner, 2004). There are several problems with personal inquiry. Read the following sentence aloud:
+
+     Paris in the
+     the spring
+
+Are you sure that is what it said? Read it again:
+
+     Paris in the
+     the spring
+
+If you read it differently the second time (adding the second “the”) you just experienced one of the problems with personal inquiry; that is, the tendency to see what we believe. Our assumptions very often guide our perceptions, consequently, when we believe something, we tend to see it even if it is not there. This problem may just be a result of cognitive ‘blinders’ or it may be part of a more conscious attempt to support our own views. Confirmation bias is the tendency to look for evidence that we are right and in so doing, we ignore contradictory evidence. Popper suggests that the distinction between that which is scientific and that which is unscientific is that science is falsifiable; scientific inquiry involves attempts to reject or refute a theory or set of assumptions (Thornton, 2005). Theory that cannot be falsified is not scientific. And much of what we do in personal inquiry involves drawing conclusions based on what we have personally experienced or validating our own experience by discussing what we think is true with others who share the same views.
+
+Science offers a more systematic way to make comparisons guard against bias. 
+
+### Scientific Methods
+
+One method of scientific investigation involves the following steps:
+
+1. Determining a research question
+
+2. Reviewing previous studies addressing the topic in question (known as a literature review)
+
+3. Determining a method of gathering information
+
+4. Conducting the study
+
+5. Interpreting results
+
+6. Drawing conclusions; stating limitations of the study and suggestions for future research
+
+7. Making your findings available to others (both to share information and to have your work scrutinized by others)
+
+Your findings can then be used by others as they explore the area of interest and through this process a literature or knowledge base is established. This model of scientific investigation presents research as a linear process guided by a specific research question. And it typically involves quantifying or using statistics to understand and report what has been studied. Many academic journals publish reports on studies conducted in this manner.
+
+Another model of research referred to as qualitative research may involve steps such as these:
+
+1. Begin with a broad area of interest
+
+2. Gain entrance into a group to be researched
+
+3. Gather field notes about the setting, the people, the structure, the activities or other areas of interest
+
+4. Ask open ended, broad “grand tour” types of questions when interviewing subjects
+
+5. Modify research questions as study continues
+
+6. Note patterns or consistencies
+
+7. Explore new areas deemed important by the people being observed
+
+8. Report findings
+
+In this type of research, theoretical ideas are “grounded” in the experiences of the participants. The researcher is the student and the people in the setting are the teachers as they inform the researcher of their world (Glazer & Strauss, 1967). Researchers are to be aware of their own biases and assumptions, acknowledge them and bracket them in efforts to keep them from limiting accuracy in reporting. Sometimes qualitative studies are used initially to explore a topic and more quantitative studies are used to test or explain what was first described.
+
+### Research Methods
+
+Let’s look more closely at some techniques, or research methods, used to describe, explain, or evaluate. Each of these designs has strengths and weaknesses and is sometimes used in combination with other designs within a single study.
+
+#### Observational Studies 
+
+**Observational studies** involve watching and recording the actions of participants. This may take place in the natural setting, such as observing children at play at a park, or behind a one-way glass while children are at play in a laboratory playroom. The researcher may follow a checklist and record the frequency and duration of events (perhaps how many conflicts occur among 2-year-olds) or may observe and record as much as possible about an event (such as observing children in a classroom and capturing the details about the room design and what the children and teachers are doing and saying). In general, observational studies have the strength of allowing the researcher to see how people behave rather than relying on self-report. What people do and what they say they do are often very different. A major weakness of observational studies is that they do not allow the researcher to explain causal relationships. Yet, observational studies are useful and widely used when studying children. Children tend to change their behavior when they know they are being watched (known as the Hawthorne effect) and may not survey well.
+
+#### Experiments
+
+**Experiments** are designed to test hypotheses (or specific statements about the relationship between variables) in a controlled setting in efforts to explain how certain factors or events produce outcomes. A variable is anything that changes in value. Concepts are operationalized or transformed into variables in research, which means that the researcher must specify exactly what is going to be measured in the study. 
+
+Three conditions must be met in order to establish cause and effect. Experimental designs are useful in meeting these conditions.
+
+1. The independent and dependent variables must be related. In other words, when one is altered, the other changes in response. (The independent variable is something altered or introduced by the researcher. The dependent variable is the outcome or the factor affected by the introduction of the independent variable. For example, if we are looking at the impact of exercise on stress levels, the independent variable would be exercise; the dependent variable would be stress.)
+
+2. The cause must come before the effect. Experiments involve measuring subjects on the dependent variable before exposing them to the independent variable (establishing a baseline). So we would measure the subjects’ level of stress before introducing exercise and then again after the exercise to see if there has been a change in stress levels. (Observational and survey research does not always allow us to look at the timing of these events, which makes understanding causality problematic with these designs.)
+
+3. The cause must be isolated. The researcher must ensure that no outside, perhaps unknown variables are actually causing the effect we see. The experimental design helps make this possible. In an experiment, we would make sure that our subjects’ diets were held constant throughout the exercise program. Otherwise, diet might really be creating the change in stress level rather than exercise.
+
+A basic experimental design involves beginning with a sample (or subset of a population) and randomly assigning subjects to one of two groups: the experimental group or the control group. The experimental group is the group that is going to be exposed to an independent variable or condition the researcher is introducing as a potential cause of an event. The control group is going to be used for comparison and is going to have the same experience as the experimental group but will not be exposed to the independent variable. After exposing the experimental group to the independent variable, the two groups are measured again to see if a change has occurred. If so, we are in a better position to suggest that the independent variable caused the change in the dependent variable. 
+
+The major advantage of the experimental design is that of helping to establish cause and effect relationships. A disadvantage of this design is the difficulty of translating much of what happens in a laboratory setting into real life.
+
+#### Case Studies
+
+**Case studies** involve exploring a single case or situation in great detail. Information may be gathered with the use of observation, interviews, testing, or other methods to uncover as much as possible about a person or situation. Case studies are helpful when investigating unusual situations such as brain trauma or children reared in isolation. And they are often used by clinicians who conduct case studies as part of their normal practice when gathering information about a client or patient coming in for treatment. Case studies can be used to explore areas about which little is known and can provide rich detail about situations or conditions. However, the findings from case studies cannot be generalized or applied to larger populations; this is because cases are not randomly selected and no control group is used for comparison. 
+
+```{r fig-1-7, out.width="50%", fig.cap="Illustrated poster from a classroom describing a case study.^[[Image](https://commons.wikimedia.org/wiki/File:CASESTUDY.jpg) by MaryGeorge is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)]"}
+
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/CASESTUDY.jpg/800px-CASESTUDY.jpg")
+
+```
+
+
+
+#### Surveys
+
+**Surveys** are familiar to most people because they are so widely used. Surveys enhance accessibility to subjects because they can be conducted in person, over the phone, through the mail, or online. A survey involves asking a standard set of questions to a group of subjects. In a highly structured survey, subjects are forced to choose from a response set such as “strongly disagree, disagree, undecided, agree, strongly agree”; or “0, 1-5, 6-10, etc.” This is known as **Likert Scale**. Surveys are commonly used by sociologists, marketing researchers, political scientists, therapists, and others to gather information on many independent and dependent variables in a relatively short period of time. Surveys typically yield surface information on a wide variety of factors, but may not allow for in-depth understanding of human behavior. 
+
+Of course, surveys can be designed in a number of ways. They may include forced choice questions and semi-structured questions in which the researcher allows the respondent to describe or give details about certain events. One of the most difficult aspects of designing a good survey is wording questions in an unbiased way and asking the right questions so that respondents can give a clear response rather than choosing “undecided” each time. Knowing that 30% of respondents are undecided is of little use! So a lot of time and effort should be placed on the construction of survey items. One of the benefits of having forced choice items is that each response is coded so that the results can be quickly entered and analyzed using statistical software. Analysis takes much longer when respondents give lengthy responses that must be analyzed in a different way. Surveys are useful in examining stated values, attitudes, opinions, and reporting on practices. However, they are based on self-report or what people say they do rather than on observation and this can limit accuracy.
+
+#### Developmental Designs
+
+**Developmental designs** are techniques used in developmental research (and other areas as well). These techniques try to examine how age, cohort, gender, and social class impact development. 
+
+##### Longitudinal Research
+
+**Longitudinal research** involves beginning with a group of people who may be of the same age and background, and measuring them repeatedly over a long period of time. One of the benefits of this type of research is that people can be followed through time and be compared with them when they were younger. 
+
+
+```{r fig-1-8, out.width="50%", fig.cap="A longitudinal research design.^[[Image](https://nobaproject.com/modules/research-methods-in-developmental-psychology) by [NOBA](https://nobaproject.com/) is licensed under on [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US)]"}
+
+knitr::include_graphics("https://nobaproject.com/images/shared/images/000/002/288/original.png")
+
+```
+
+
+
+A problem with this type of research is that it is very expensive and subjects may drop out over time. The Perry Preschool Project which began in 1962 is an example of a longitudinal study that continues to provide data on children’s development.
+
+##### Cross-sectional Research
+
+**Cross-sectional** research involves beginning with a sample that represents a cross-section of the population. Respondents who vary in age, gender, ethnicity, and social class might be asked to complete a survey about television program preferences or attitudes toward the use of the Internet. The attitudes of males and females could then be compared, as could attitudes based on age. In cross-sectional research, respondents are measured only once. 
+ 
+
+```{r fig-1-9, out.width="50%", fig.cap="A cross-sectional research design.^[[Image](https://nobaproject.com/modules/research-methods-in-developmental-psychology) by [NOBA](https://nobaproject.com/) is licensed under [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US) 4.0]"}
+
+knitr::include_graphics("https://nobaproject.com/images/shared/images/000/002/289/original.png")
+
+```
+
+
+This method is much less expensive than longitudinal research but does not allow the researcher to distinguish between the impact of age and the cohort effect. Different attitudes about the use of technology, for example, might not be altered by a person’s biological age as much as their life experiences as members of a cohort.
+
+##### Sequential Research
+
+Sequential research involves combining aspects of the previous two techniques; beginning with a cross-sectional sample and measuring them through time. 
+
+```{r fig-1-10, out.width="50%", fig.cap="A sequential research design..^[[Image](https://nobaproject.com/modules/research-methods-in-developmental-psychology) by [NOBA](https://nobaproject.com/) is licensed under [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US) 4.0]"}
+
+knitr::include_graphics("https://nobaproject.com/images/shared/images/000/002/290/original.png")
+
+```
+
+
+
+This is the perfect model for looking at age, gender, social class, and ethnicity. But the drawbacks of high costs and attrition are here as well^[[Research Methods](https://courses.lumenlearning.com/lifespandevelopment2/chapter/research-methods/) by [Lumen Learning](https://lumenlearning.com/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)]. 
+
+```{r, include=F}
+table_01_01 <- read_csv("tables/table-01-01.csv")
+
+```
+
+
+```{r table-1-1}
+
+table_01_01 %>% 
+        kable(caption = "Advantages and Disadvantages of Different Research Designs^[[Research Methods in Developmental Psychology](https://nobaproject.com/modules/research-methods-in-developmental-psychology) by [Angela Lukowski and Helen Milojevich](https://nobaproject.com/modules/research-methods-in-developmental-psychology#authors) is licensed under a [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US)]") %>% 
+        column_spec(1, background = "white") %>% 
+        column_spec(2, width = "20em") %>% 
+        column_spec(3, width = "20em") %>% 
+        collapse_rows(columns = 1, valign = "top")
+
+```
+
+
+
+
+### Consent and Ethics in Research
+
+Research should, as much as possible, be based on participants' freely volunteered informed consent. For minors, this also requires consent from their legal guardians. This implies a responsibility to explain fully and meaningfully to both the child and their guardians what the research is about and how it will be disseminated. Participants and their legal guardians should be aware of the research purpose and procedures, their right to refuse to participate; the extent to which confidentiality will be maintained; the potential uses to which the data might be put; the foreseeable risks and expected benefits; and that participants have the right to discontinue at any time. 
+
+But consent alone does not absolve the responsibility of researchers to anticipate and guard against potential harmful consequences for participants^[[Confidentiality and Informed Consent: Issues for Consideration in the Preservation of and Provision of Access to Qualitative Data Archives](http://www.qualitative-research.net/index.php/fqs/article/view/1024/2207) by Louise Corti, Annette Day & Gill Backhouse Source is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) (modified by Jennifer Paris); ["No thank you, not today": Supporting Ethical and Professional Relationships in Large Qualitative Studies](http://www.qualitative-research.net/index.php/fqs/article/view/31/65#g32) by Lisa J. Blodgett, Wanda Boyer & Emily Turk Source is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) (modified by Jennifer Paris) ].  It is critical that researchers protect all rights of the participants including confidentiality.
+
+Child development is a fascinating field of study – but care must be taken to ensure that researchers use appropriate methods to examine infant and child behavior, use the correct experimental design to answer their questions, and be aware of the special challenges that are part-and-parcel of developmental research. Hopefully, this information helped you develop an understanding of these various issues and to be ready to think more critically about research questions that interest you. There are so many interesting questions that remain to be examined by future generations of developmental scientists – maybe you will make one of the next big discoveries!^[[Research Methods in Developmental Psychology](https://nobaproject.com/modules/research-methods-in-developmental-psychology) by [Angela Lukowski and Helen Milojevich](https://nobaproject.com/modules/research-methods-in-developmental-psychology#authors) is licensed under a [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US)] 
+
+Another really important framework to use when trying to understand children’s development are theories of development. Let’s explore what theories are and introduce you to some major theories in child development. 
+
+## Developmental Theories
+
+### What is a theory?
+
+Students sometimes feel intimidated by theory; even the phrase, “Now we are going to look at some theories…” is met with blank stares and other indications that the audience is now lost. But theories are valuable tools for understanding human behavior; in fact they are proposed explanations for the “how” and “whys” of development. Have you ever wondered, “Why is my 3 year old so inquisitive?” or “Why are some fifth graders rejected by their classmates?” Theories can help explain these and other occurrences. Developmental theories offer explanations about how we develop, why we change over time and the kinds of influences that impact development.
+
+A **theory** guides and helps us interpret research findings as well. It provides the researcher with a blueprint or model to be used to help piece together various studies. Think of theories as guidelines much like directions that come with an appliance or other object that requires assembly. The instructions can help one piece together smaller parts more easily than if trial and error are used.
+
+Theories can be developed using induction in which a number of single cases are observed and after patterns or similarities are noted, the theorist develops ideas based on these examples. Established theories are then tested through research; however, not all theories are equally suited to scientific investigation.  Some theories are difficult to test but are still useful in stimulating debate or providing concepts that have practical application.  Keep in mind that theories are not facts; they are guidelines for investigation and practice, and they gain credibility through research that fails to disprove them.^[[Introduction to Developmental Theories](https://courses.lumenlearning.com/lifespandevelopment2/chapter/lesson-2-introduction-to-developmental-theories/) by [Lumen Learning](https://lumenlearning.com/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)]
+
+Let’s take a look at some key theories in Child Development.
+
+### Sigmund Freud’s Psychosexual Theory
+
+We begin with the often controversial figure, Sigmund Freud (1856-1939). Freud has been a very influential figure in the area of development; his view of development and psychopathology dominated the field of psychiatry until the growth of behaviorism in the 1950s. His assumptions that personality forms during the first few years of life and that the ways in which parents or other caregivers interact with children have a long-lasting impact on children’s emotional states have guided parents, educators, clinicians, and policy-makers for many years. We have only recently begun to recognize that early childhood experiences do not always result in certain personality traits or emotional states. There is a growing body of literature addressing resilience in children who come from harsh backgrounds and yet develop without damaging emotional scars (O’Grady and Metz, 1987). Freud has stimulated an enormous amount of research and generated many ideas. Agreeing with Freud’s theory in its entirety is hardly necessary for appreciating the contribution he has made to the field of development.
+
+
+```{r fig-1-11, out.width = "25%", fig.cap="Sigmund Freud.^[[Image](https://commons.wikimedia.org/wiki/File:Sigmund_Freud,_by_Max_Halberstadt_(cropped).jpg) is in the public domain]"}
+
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg/441px-Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg")
+
+```
+
+
+Freud’s theory of self suggests that there are three parts of the self.
+
+The **id** is the part of the self that is inborn. It responds to biological urges without pause and is guided by the principle of pleasure: if it feels good, it is the thing to do. A newborn is all id. The newborn cries when hungry, defecates when the urge strikes. 
+
+The **ego** develops through interaction with others and is guided by logic or the reality principle. It has the ability to delay gratification. It knows that urges have to be managed. It mediates between the id and superego using logic and reality to calm the other parts of the self. 
+
+The **superego** represents society’s demands for its members. It is guided by a sense of guilt. Values, morals, and the conscience are all part of the superego.
+
+The personality is thought to develop in response to the child’s ability to learn to manage biological urges. Parenting is important here. If the parent is either overly punitive or lax, the child may not progress to the next stage. Here is a brief introduction to Freud’s stages. 
+
+
+```{r include=F}
+
+table_01_02 <- read_csv("tables/table-01-02.csv")
+
+```
+
+
+```{r table-1-2}
+
+table_01_02 %>% 
+        kable(caption = "Sigmund Freud’s Psychosexual Theory")
+
+```
+
+
+
+#### Strengths and Weaknesses of Freud’s Theory
+
+Freud’s theory has been heavily criticized for several reasons. One is that it is very difficult to test scientifically. How can parenting in infancy be traced to personality in adulthood? Are there other variables that might better explain development? The theory is also considered to be sexist in suggesting that women who do not accept an inferior position in society are somehow psychologically flawed. Freud focuses on the darker side of human nature and suggests that much of what determines our actions is unknown to us. So why do we study Freud? As mentioned above, despite the criticisms, Freud’s assumptions about the importance of early childhood experiences in shaping our psychological selves have found their way into child development, education, and parenting practices. Freud’s theory has heuristic value in providing a framework from which to elaborate and modify subsequent theories of development. Many later theories, particularly behaviorism and humanism, were challenges to Freud’s views.^[[Psychodynamic Theory](https://courses.lumenlearning.com/lifespandevelopment2/chapter/freuds-psychodynamic-theory/) by [Lumen Learning](https://lumenlearning.com/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [Lecture Transcript: Developmental Theories](https://courses.lumenlearning.com/lifespandevelopment2/chapter/lesson-2-lecture-transcript/) by [Lumen Learning](https://lumenlearning.com/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)] 
+
+
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "blue">
+#### Main Points to Note About Freud’s Psychosexual Theory
+
+Freud believed that:
+
+* Development in the early years has a lasting impact.
+
+* There are three parts of the self: the id, the ego, and the superego
+
+* People go through five stages of psychosexual development: the oral stage, the anal stage, the phallic stage, latency, and the genital stage
+
+We study Freud because his assumptions the importance of early childhood experience provide a framework for later theories (the both elaborated and contradicted/challenged his work).
+
+</div>
+
+### Erik Erikson’s Psychosocial Theory
+
+Now, let’s turn to a less controversial theorist, Erik Erikson. Erikson (1902-1994) suggested that our relationships and society’s expectations motivate much of our behavior in his theory of psychosocial development. Erikson was a student of Freud’s but emphasized the importance of the ego, or conscious thought, in determining our actions. In other words, he believed that we are not driven by unconscious urges. We know what motivates us and we consciously think about how to achieve our goals. He is considered the father of developmental psychology because his model gives us a guideline for the entire life span and suggests certain primary psychological and social concerns throughout life.
+
+```{r fig-1-12, out.width = "25%", fig.cap="Erik Erikson.^[[Image](https://commons.wikimedia.org/wiki/File:Erik_Erikson.png) is in the public domain]"}
+
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/a/a8/Erik_Erikson.png")
+
+```
+
+
+
+Erikson expanded on his Freud’s by emphasizing the importance of culture in parenting practices and motivations and adding three stages of adult development (Erikson, 1950; 1968). He believed that we are aware of what motivates us throughout life and the ego has greater importance in guiding our actions than does the id. We make conscious choices in life and these choices focus on meeting certain social and cultural needs rather than purely biological ones. Humans are motivated, for instance, by the need to feel that the world is a trustworthy place, that we are capable individuals, that we can make a contribution to society, and that we have lived a meaningful life. These are all psychosocial problems. 
+
+Erikson divided the lifespan into eight stages. In each stage, we have a major psychosocial task to accomplish or crisis to overcome.  Erikson believed that our personality continues to take shape throughout our lifespan as we face these challenges in living.  Here is a brief overview of the eight stages:
+
+
+```{r include=F}
+
+table_01_03 <- read_csv("tables/table-01-03.csv")
+
+```
+
+
+```{r table-1-3}
+
+table_01_03 %>% 
+        kable(caption = "Erik Erikson’s Psychosocial Theory") %>% 
+        column_spec(1, width = "15em")
+
+```
+
+These eight stages form a foundation for discussions on emotional and social development during the life span. Keep in mind, however, that these stages or crises can occur more than once. For instance, a person may struggle with a lack of trust beyond infancy under certain circumstances. Erikson’s theory has been criticized for focusing so heavily on stages and assuming that the completion of one stage is prerequisite for the next crisis of development. His theory also focuses on the social expectations that are found in certain cultures, but not in all. For instance, the idea that adolescence is a time of searching for identity might translate well in the middle-class culture of the United States, but not as well in cultures where the transition into adulthood coincides with puberty through rites of passage and where adult roles offer fewer choices.^[[Psychosocial Theory](https://courses.lumenlearning.com/lifespandevelopment2/chapter/erikson-and-psychosocial-theory/) by [Lumen Learning](https://lumenlearning.com/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)]
+
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "blue">
+#### Main Points to Note About Erikson’s Psychosocial Theory
+
+Erikson was a student of Freud but focused on conscious thought.
+
+* His stages of psychosocial development address the entire lifespan and suggest primary psychosocial crisis in some cultures that adults can use to understand how to support children’s social and emotional development. 
+
+* The stages include: trust vs. mistrust, autonomy vs. shame and doubt, initiative vs. guilt, industry vs. inferiority, identity vs. role confusion, intimacy vs. isolation, generativity vs. stagnation, and integrity vs. despair.
+</div>
+
+
+### Behaviorism
+
+While Freud and Erikson looked at what was going on in the mind, behaviorism rejected any reference to mind and viewed overt and observable behavior as the proper subject matter of psychology. Through the scientific study of behavior, it was hoped that laws of learning could be derived that would promote the prediction and control of behavior.^[[History of Psychology](https://nobaproject.com/modules/history-of-psychology) by [David B. Baker and Heather Sperry](https://nobaproject.com/modules/history-of-psychology#authors) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US)]
+
+#### Ivan Pavlov
+
+Ivan Pavlov (1880-1937) was a Russian physiologist interested in studying digestion. As he recorded the amount of salivation his laboratory dogs produced as they ate, he noticed that they actually began to salivate before the food arrived as the researcher walked down the hall and toward the cage. “This,” he thought, “is not natural!” One would expect a dog to automatically salivate when food hit their palate, but BEFORE the food comes? Of course, what had happened was . . . you tell me. That’s right! The dogs knew that the food was coming because they had learned to associate the footsteps with the food. The key word here is “learned”. A learned response is called a “conditioned” response. 
+
+
+```{r fig-1-13, out.width = "25%", fig.cap="Ivan Pavlov.^[[Image](https://commons.wikimedia.org/wiki/File:Ivan_Pavlov_nobel.jpg) is in the public domain]"}
+
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/2/2a/Ivan_Pavlov_nobel.jpg")
+
+```
+
+
+
+Pavlov began to experiment with this concept of classical conditioning. He began to ring a bell, for instance, prior to introducing the food. Sure enough, after making this connection several times, the dogs could be made to salivate to the sound of a bell. Once the bell had become an event to which the dogs had learned to salivate, it was called a conditioned stimulus. The act of salivating to a bell was a response that had also been learned, now termed in Pavlov’s jargon, a conditioned response. Notice that the response, salivation, is the same whether it is conditioned or unconditioned (unlearned or natural). What changed is the stimulus to which the dog salivates. One is natural (unconditioned) and one is learned (conditioned). 
+
+Let’s think about how classical conditioning is used on us. One of the most widespread applications of classical conditioning principles was brought to us by the psychologist, John B. Watson.
+
+#### John B. Watson 
+
+John B. Watson (1878-1958) believed that most of our fears and other emotional responses are classically conditioned. He had gained a good deal of popularity in the 1920s with his expert advice on parenting offered to the public. 
+
+```{r fig-1-14, out.width = "25%", fig.cap="John B. Watson.^[[Image](https://commons.wikimedia.org/wiki/File:John-B-Watson.jpg) is in the public domain]"}
+
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/a/ad/John-B-Watson.jpg")
+
+```
+
+
+
+He tried to demonstrate the power of classical conditioning with his famous experiment with an 18 month old boy named “Little Albert”. Watson sat Albert down and introduced a variety of seemingly scary objects to him: a burning piece of newspaper, a white rat, etc. But Albert remained curious and reached for all of these things. Watson knew that one of our only inborn fears is the fear of loud noises so he proceeded to make a loud noise each time he introduced one of Albert’s favorites, a white rat. After hearing the loud noise several times paired with the rat, Albert soon came to fear the rat and began to cry when it was introduced. Watson filmed this experiment for posterity and used it to demonstrate that he could help parents achieve any outcomes they desired, if they would only follow his advice. Watson wrote columns in newspapers and in magazines and gained a lot of popularity among parents eager to apply science to household order.
+
+Operant conditioning, on the other hand, looks at the way the consequences of a behavior increase or decrease the likelihood of a behavior occurring again. So let’s look at this a bit more.
+
+#### B.F. Skinner and Operant Conditioning
+
+B. F. Skinner (1904-1990), who brought us the principles of operant conditioning, suggested that reinforcement is a more effective means of encouraging a behavior than is criticism or punishment. By focusing on strengthening desirable behavior, we have a greater impact than if we emphasize what is undesirable. Reinforcement is anything that an organism desires and is motivated to obtain. 
+
+```{r fig-1-15, out.width = "25%", fig.cap="B. F. Skinner.^[[Image](https://courses.lumenlearning.com/lifespandevelopment2/chapter/how-do-we-act-exploring-behavior/) is in the public domain]"}
+
+knitr::include_graphics("https://s3-us-west-2.amazonaws.com/courses-images-archive-read-only/wp-content/uploads/sites/1496/2014/09/18053749/Skinner-274x300.jpeg")
+
+```
+
+
+
+A **reinforcer** is something that encourages or promotes a behavior. Some things are natural rewards. They are considered intrinsic or primary because their value is easily understood. Think of what kinds of things babies or animals such as puppies find rewarding.
+
+Extrinsic or secondary reinforcers are things that have a value not immediately understood. Their value is indirect. They can be traded in for what is ultimately desired.
+
+The use of **positive reinforcement** involves adding something to a situation in order to encourage a behavior. For example, if I give a child a cookie for cleaning a room, the addition of the cookie makes cleaning more likely in the future. Think of ways in which you positively reinforce others.
+
+**Negative reinforcement** occurs when taking something unpleasant away from a situation encourages behavior. For example, I have an alarm clock that makes a very unpleasant, loud sound when it goes off in the morning. As a result, I get up and turn it off. By removing the noise, I am reinforced for getting up. How do you negatively reinforce others?
+
+**Punishment** is an effort to stop a behavior. It means to follow an action with something unpleasant or painful. Punishment is often less effective than reinforcement for several reasons. It doesn’t indicate the desired behavior, it may result in suppressing rather than stopping a behavior, (in other words, the person may not do what is being punished when you’re around, but may do it often when you leave), and a focus on punishment can result in not noticing when the person does well.
+
+Not all behaviors are learned through association or reinforcement. Many of the things we do are learned by watching others. This is addressed in social learning theory.
+
+#### Social Learning Theory
+
+Albert Bandura (1925-) is a leading contributor to social learning theory. He calls our attention to the ways in which many of our actions are not learned through conditioning; rather, they are learned by watching others (1977). Young children frequently learn behaviors through imitation 
+
+
+```{r fig-1-16, out.width = "25%", fig.cap="Albert Bandura.^[[Image](https://commons.wikimedia.org/wiki/File:Albert_Bandura_Psychologist.jpg) by Albert Bandura is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)]"}
+
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Albert_Bandura_Psychologist.jpg/423px-Albert_Bandura_Psychologist.jpg")
+
+```
+
+
+
+Sometimes, particularly when we do not know what else to do, we learn by modeling or copying the behavior of others. A kindergartner on his or her first day of school might eagerly look at how others are acting and try to act the same way to fit in more quickly. Adolescents struggling with their identity rely heavily on their peers to act as role-models. Sometimes we do things because we’ve seen it pay off for someone else. They were operantly conditioned, but we engage in the behavior because we hope it will pay off for us as well. This is referred to as vicarious reinforcement (Bandura, Ross and Ross, 1963).
+
+Bandura (1986) suggests that there is interplay between the environment and the individual. We are not just the product of our surroundings, rather we influence our surroundings. Parents not only influence their child’s environment, perhaps intentionally through the use of reinforcement, etc., but children influence parents as well. Parents may respond differently with their first child than with their fourth. Perhaps they try to be the perfect parents with their firstborn, but by the time their last child comes along they have very different expectations both of themselves and their child. Our environment creates us and we create our environment.^[[Exploring Behavior](https://courses.lumenlearning.com/lifespandevelopment2/chapter/how-do-we-act-exploring-behavior/) by [Lumen Learning](https://lumenlearning.com/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [Lecture Transcript: Developmental Theories](https://courses.lumenlearning.com/lifespandevelopment2/chapter/lesson-2-lecture-transcript/) by [Lumen Learning](https://lumenlearning.com/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)]
+
+<style>
+div.blue {background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "blue">
+##### Bandura and the Bobo Doll Experiment & Today’s Children and the Media
+
+Other social influences: TV or not TV? Bandura et al. (1963) began a series of studies to look at the impact of television, particularly commercials, on the behavior of children. Are children more likely to act out aggressively when they see this behavior modeled? What if they see it being reinforced? Bandura began by conducting an experiment in which he showed children a film of a woman hitting an inflatable clown or “bobo” doll. Then the children were allowed in the room where they found the doll and immediately began to hit it. This was without any reinforcement whatsoever. Not only that, but they found new ways to behave aggressively. It’s as if they learned an aggressive role.
+
+Children view far more television today than in the 1960s; so much, in fact, that they have been referred to as Generation M (media). The amount of screen time varies by age. As of 2017, children 0-8 spend an average of 2 hours and 19 minutes. Children 8-12 years of age spend almost 6 hours a day on screen media. And 13- to 18-year-olds spend an average of just under 9 hours a day in entertainment media use. 
+
+The prevalence of violence, sexual content, and messages promoting foods high in fat and sugar in the media are certainly cause for concern and the subjects of ongoing research and policy review. Many children spend even more time on the computer viewing content from the internet. The amount of time spent connected to the internet continues to increase with the use of smartphones that essentially serve as mini-computers. And the ways children and adolescents interact with the media continues to change. The popularity of YouTube and the various social media platforms are examples of this. What might be the implications of this?^[[Exploring Behavior](https://courses.lumenlearning.com/lifespandevelopment2/chapter/how-do-we-act-exploring-behavior/) by [Lumen Learning](https://lumenlearning.com/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Rasmussen, Eric (2017, Oct 19). Screen Time and Kids: Insights from a New Report. Retrieved from [https://www.pbs.org/parents/thrive/screen-time-and-kids-insights-from-a-new-report](https://www.pbs.org/parents/thrive/screen-time-and-kids-insights-from-a-new-report)]
+</div>
+
+<br/>
+
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "blue">
+#### Main Points to Note About Behaviorism
+
+Behaviorists look at observable behavior and how it can be predicted and controlled.
+
+* Pavlov experimented with classical conditioning, the process of conditioning a response to stimulus (the dog’s salivating to the bell).
+
+* Watson offered advice to parents to show them how classical conditioning can be used. His most famous experiment was conditioning Little Albert to fear a white rate.
+
+* Skinner believed that reinforcing behavior is the most effective way of increasing desirable behavior. This is done through operant conditioning.
+
+* Bandura noted that many behaviors are not learned through any type of conditioning, but rather through imitation. And he believed that people are not only influenced by their surroundings, but that they also have an impact on their surroundings. 
+
+</div>
+
+Theories also explore cognitive development and how mental processes change over time.
+
+
+
+### Jean Piaget's Theory of Cognitive Development
+
+Jean Piaget (1896-1980) is one of the most influential cognitive theorists. Piaget was inspired to explore children’s ability to think and reason by watching his own children’s development. He was one of the first to recognize and map out the ways in which children’s thought differs from that of adults. His interest in this area began when he was asked to test the IQ of children and began to notice that there was a pattern in their wrong answers. He believed that children’s intellectual skills change over time through maturation. Children of differing ages interpret the world differently.
+
+
+```{r fig-1-17, out.width = "25%", fig.cap="Jean Piaget.^[[Image](https://courses.lumenlearning.com/lifespandevelopment2/chapter/what-do-we-think-exploring-cognition/) is in the public domain]"}
+
+knitr::include_graphics("https://s3-us-west-2.amazonaws.com/courses-images-archive-read-only/wp-content/uploads/sites/1496/2016/03/15184703/Jean_Piaget_in_Ann_Arbor-179x300.png")
+
+```
+
+
+
+Piaget believed our desire to understand the world comes from a need for cognitive equilibrium. This is an agreement or balance between what we sense in the outside world and what we know in our minds. If we experience something that we cannot understand, we try to restore the balance by either changing our thoughts or by altering the experience to fit into what we do understand. Perhaps you meet someone who is very different from anyone you know. How do you make sense of this person? You might use them to establish a new category of people in your mind or you might think about how they are similar to someone else.
+
+A **schema** or schemes are categories of knowledge. They are like mental boxes of concepts. A child has to learn many concepts. They may have a scheme for “under” and “soft” or “running” and “sour”. All of these are schema. Our efforts to understand the world around us lead us to develop new schema and to modify old ones.
+
+One way to make sense of new experiences is to focus on how they are similar to what we already know. This is **assimilation.** So the person we meet who is very different may be understood as being “sort of like my brother” or “his voice sounds a lot like yours.” Or a new food may be assimilated when we determine that it tastes like chicken! 
+
+Another way to make sense of the world is to change our mind. We can make a cognitive accommodation to this new experience by adding new schema. This food is unlike anything I’ve tasted before. I now have a new category of foods that are bitter-sweet in flavor, for instance. This is **accommodation.** Do you accommodate or assimilate more frequently? Children accommodate more frequently as they build new schema. Adults tend to look for similarity in their experience and assimilate. They may be less inclined to think “outside the box.”
+Piaget suggested different ways of understanding that are associated with maturation. He divided this into four stages: 
+
+
+```{r include=F}
+
+table_01_04 <- read_csv("tables/table-01-04.csv")
+
+```
+
+
+```{r table-1-4}
+
+table_01_04 %>% 
+        kable(caption = "Jean Piaget’s Theory of Cognitive Development") %>% 
+        column_spec(1, width = "15em")
+
+```
+
+
+
+#### Criticisms of Piaget’s Theory
+
+Piaget has been criticized for overemphasizing the role that physical maturation plays in cognitive development and in underestimating the role that culture and interaction (or experience) plays in cognitive development. Looking across cultures reveals considerable variation in what children are able to do at various ages. Piaget may have underestimated what children are capable of given the right circumstances.^[[Lecture Transcript: Developmental Theories](https://courses.lumenlearning.com/lifespandevelopment2/chapter/lesson-2-lecture-transcript/) by [Lumen Learning](https://lumenlearning.com/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (modified by Jennifer Paris);
+[Exploring Cognition](https://courses.lumenlearning.com/lifespandevelopment2/chapter/what-do-we-think-exploring-cognition/) by [Lumen Learning](https://lumenlearning.com/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)]
+
+<style>
+div.blue {background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "blue">
+#### Main Points To Note About Piaget’s Theory of Cognitive Development
+Piaget, one of the most influential cognitive theorists, believed that
+
+* Understanding is motivated by trying to balance what we sense in the world and what we know in our minds.
+
+* Understanding is organized through creating categories of knowledge. When presented with new knowledge we may add new schema or modify existing ones.
+
+Children’s understanding of the world of the world changes are their cognitive skills mature through 4 stages: sensorimotor stage, preoperational stage, concrete operational stage, and formal operational stage.
+</div>
+
+
+
+### Lev Vygotsky's Sociocultural Theory
+
+Lev Vygotsky (1896-1934) was a Russian psychologist who wrote in the early 1900s but whose work was discovered in the United States in the 1960s but became more widely known in the 1980s. Vygotsky differed with Piaget in that he believed that a person not only has a set of abilities, but also a set of potential abilities that can be realized if given the proper guidance from others. His sociocultural theory emphasizes the importance of culture and interaction in the development of cognitive abilities. He believed that through guided participation known as scaffolding, with a teacher or capable peer, a child can learn cognitive skills within a certain range known as the **zone of proximal development**^[[Exploring Cognition](https://courses.lumenlearning.com/lifespandevelopment2/chapter/what-do-we-think-exploring-cognition/) by [Lumen Learning](https://lumenlearning.com/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)].  His belief was that development occurred first through children’s immediate social interactions, and then moved to the individual level as they began to internalize their learning.^[[Children's Development](https://docs.google.com/document/d/1k1xtrXy6j9_NAqZdGv8nBn_I6-lDtEgEFf7skHjvE-Y/edit) by Ana R. Leon is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)]  
+
+
+```{r fig-1-18, out.width = "25%", fig.cap="Lev Vygotsky.^[[Image](https://commons.wikimedia.org/wiki/File:Lev_Vygotsky_1896-1934.jpg) by The Vygotsky Project is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)]"}
+
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/8/8f/Lev_Vygotsky_1896-1934.jpg")
+
+```
+
+
+
+Have you ever taught a child to perform a task? Maybe it was brushing their teeth or preparing food. Chances are you spoke to them and described what you were doing while you demonstrated the skill and let them work along with you all through the process. You gave them assistance when they seemed to need it, but once they knew what to do-you stood back and let them go. This is scaffolding and can be seen demonstrated throughout the world. This approach to teaching has also been adopted by educators. Rather than assessing students on what they are doing, they should be understood in terms of what they are capable of doing with the proper guidance. You can see how Vygotsky would be very popular with modern day educators.^[[Exploring Cognition](https://courses.lumenlearning.com/lifespandevelopment2/chapter/what-do-we-think-exploring-cognition/) by [Lumen Learning](https://lumenlearning.com/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)]  
+
+<style>
+div.blue {background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "blue">
+#### Main Points to Note About Vygotsky’s Sociocultural Theory
+
+Vygotsky concentrated on the child’s interactions with peers and adults. He believed that the child was an apprentice, learning through sensitive social interactions with more skilled peers and adults.
+</div>
+
+### Comparing Piaget and Vygotsky
+
+Vygotsky concentrated more on the child’s immediate social and cultural environment and his or her interactions with adults and peers. While Piaget saw the child as actively discovering the world through individual interactions with it, Vygotsky saw the child as more of an apprentice, learning through a social environment of others who had more experience and were sensitive to the child’s needs and abilities.^[[Children's Development](https://docs.google.com/document/d/1k1xtrXy6j9_NAqZdGv8nBn_I6-lDtEgEFf7skHjvE-Y/edit) by Ana R. Leon is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)]
+
+Like Vygotsky’s, Bronfenbrenner looked at the social influences on learning and development.
+
+
+### Urie Bronfenbrenner’s Ecological Systems Model
+
+Urie Bronfenbrenner (1917-2005) offers us one of the most comprehensive theories of human development. Bronfenbrenner studied Freud, Erikson, Piaget, and learning theorists and believed that all of those theories could be enhanced by adding the dimension of context. What is being taught and how society interprets situations depends on who is involved in the life of a child and on when and where a child lives.
+
+Figure 1.19 - Urie Bronfenbrenner.
+
+Bronfenbrenner’s ecological systems model explains the direct and indirect influences on an individual’s development. 
+
+
+```{r include=F}
+
+table_01_05 <- read_csv("tables/table-01-05.csv")
+
+```
+
+
+```{r table-1-5}
+
+table_01_05 %>% 
+        kable(caption = "Urie Bronfenbrenner’s Ecological Systems Model") %>% 
+        column_spec(1, width = "15em")
+
+```
+
+
+For example, in order to understand a student in math, we can’t simply look at that individual and what challenges they face directly with the subject. We have to look at the interactions that occur between teacher and child. Perhaps the teacher needs to make modifications as well. The teacher may be responding to regulations made by the school, such as new expectations for students in math or constraints on time that interfere with the teacher’s ability to instruct. These new demands may be a response to national efforts to promote math and science deemed important by political leaders in response to relations with other countries at a particular time in history.
+
+
+```{r fig-1-19, out.width="50%", fig.cap="Bronfenbrenner's ecological systems theory.^[[Image](https://search.creativecommons.org/photos/78edad0b-dd58-48e5-9657-d550a4f6e194) by [Hchokr](https://en.wikipedia.org/wiki/User:Hchokr) is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0?ref=ccsearch&atype=rich)]"}
+
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/9/9b/Bronfenbrenner%27s_Ecological_Theory_of_Development_%28English%29.jpg")
+
+```
+
+
+
+Bronfenbrenner’s ecological systems model challenges us to go beyond the individual if we want to understand human development and promote improvements^[[Children's Development](https://docs.google.com/document/d/1k1xtrXy6j9_NAqZdGv8nBn_I6-lDtEgEFf7skHjvE-Y/edit) by Ana R. Leon is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)] 
+<style>
+div.blue {background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "blue">
+#### Main Points to Note About Bronfenbrenner’s Ecological Model
+
+After studying all of the prior theories, Bronfenbrenner added an important element of context to the discussion of influences on human development.
+
+* He believed that the people involved in children’s lives and when and where they live are important considerations.
+
+* He created a model of nested systems that influence the child (and are influenced by the child) that include: microsystems, mesosystems, the exosystem, macrosystems, and chronosystems.
+</div>
+
+<br/>
+
+<style>
+div.solid {
+border: 5px solid #FFA500;
+border-radius: 5px;
+padding: 20px;
+}
+</style>
+
+<div class = "solid">
+
+In this chapter we looked at:
+
+* underlying principles of development
+
+* the five periods of development
+
+* three issues in development
+
+* Various methods of research
+
+* important theories that help us understand development
+
+Next, we are going to be examining where we all started with conception, heredity, and prenatal development. 
+
+</div>
+<br/>
+
+
+
+
+

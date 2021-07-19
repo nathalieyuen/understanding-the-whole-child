@@ -1,0 +1,76 @@
+--- 
+title: "Understanding the Whole Child: Prenatal Development through Adolescence"
+author: "Jennifer Paris, Antoinette Ricardo, & Dawn Rymond"
+# date: "`r Sys.Date()`"
+book_filename: "understanding_the_whole_child"
+site: bookdown::bookdown_site
+output: 
+     bookdown::gitbook:
+          split_by: section
+          config:
+               search: yes
+               sharing: no
+#              download: ["pdf", "epub"]
+#    bookdown::epub_book: default
+always_allow_html: true
+documentclass: book
+classoption: openany
+biblio-style: apalike
+link-citations: yes
+description: "This book is about physical, cogntive, and social development during childhood and adolescence.  Bookdown adaptation by C. Nathalie Yuen."
+github-repo: nathalieyuen/understanding-the-whole-child
+cover-image: 'cover.png'
+---
+
+```{r setup, include=FALSE}
+library(knitr)
+library(tidyverse)
+library(kableExtra)
+
+knitr::opts_chunk$set(echo = FALSE,
+                      fig.width = 6, 
+                      fig.asp = 0.618,
+                      fig.align = "center")
+
+options(knitr.kable.NA = '')
+
+```
+
+
+# {-}
+
+```{r echo=FALSE, out.width="50%", fig.align="left"}
+include_graphics("https://images.unsplash.com/photo-1503847752244-32e931070a43?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=686&q=80")
+```
+
+An Open Educational Resources Publication by College of the Canyons
+
+<br/>
+
+Authored and compiled by Jennifer Paris, Antoinette Ricardo, & Dawn Rymond
+
+Editor: Alexa Johnson
+
+Cover Image: Photo by [Rene Bernal](https://unsplash.com/@renebbernal?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/children?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+Bookdown adaptation: C. Nathalie Yuen
+
+This is a derivative of Version 1.2
+
+<br/>
+
+
+```{r cc-by, echo=FALSE, out.width="15%", fig.align="left"}
+include_graphics("https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png")
+```
+
+This textbook is licensed under a [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+
+
+<br/>
+
+`r format(Sys.Date(), "%B %e, %Y")`
+
+2019 - Version 1.2
+
+

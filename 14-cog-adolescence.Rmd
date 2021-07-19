@@ -1,0 +1,432 @@
+# Adolescence – Cognitive Development
+
+<style>
+div.solid {
+border: 5px solid #FFA500;
+border-radius: 5px;
+padding: 20px;
+}
+</style>
+
+<div class = "solid">
+
+After this chapter, you should be able to:
+
+* Describe Piaget’s formal operational stage and the characteristics of formal operational thought
+
+* Compare Theories - Lawrence’s Kohlberg’s Moral Development and Carol Gilligan’s Morality of Care
+
+* Explain the Information Processing Theory
+
+* Describe the strategies for memory storage
+
+* Explain the areas of transition for adolescence
+
+
+During adolescence more complex thinking abilities emerge.  Researchers suggest this is due to increases in processing speed and efficiency rather than as the result of an increase in mental capacity—in other words, due to improvements in existing skills rather than development of new ones (Bjorkland, 1987; Case, 1985). Let’s explore these improvements.
+
+</div>
+
+<br/>
+
+## Cognitive Development in Adolescence
+
+During adolescence, teenagers move beyond concrete thinking and become capable of abstract thought. Teen thinking is also characterized by the ability to consider multiple points of view, imagine hypothetical situations, debate ideas and opinions (e.g., politics, religion, and justice), and form new ideas. In addition, it’s not uncommon for adolescents to question authority or challenge established societal norms.
+
+Cognitive empathy, also known as theory-of-mind, which relates to the ability to take the perspective of others and feel concern for others (Shamay-Tsoory, Tomer, & Aharon-Peretz, 2005). Cognitive empathy begins to increase in adolescence and is an important component of social problem solving and conflict avoidance. According to one longitudinal study, levels of cognitive empathy begin rising in girls around 13 years old, and around 15 years old in boys (Van der Graaff et al., 2013).^[[Psychology – 9.3 Stages of Development](https://cnx.org/contents/Sr8Ev5Og@4.100:b7opmCF3@3/Stages-of-Development) by [CNX Psychology](https://cnx.org/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)]
+
+## Cognitive Changes in the Brain
+
+Early in adolescence, changes in **Dopamine**, a chemical in the brain that is a neurotransmitter and produces feelings of pleasure, can contribute to increases in adolescents’ sensation-seeking and reward motivation. During adolescence, people tend to do whatever activities produce the most dopamine without fully considering the consequences of such actions.  Later in adolescence, the **prefrontal cortex**, the area of the brain responsible for outcomes, forming judgments, controlling impulses and emotions, also continues to develop (Goldberg, 2001). The difference in timing of the development of these different regions of the brain contributes to more risk taking during middle adolescence because adolescents are motivated to seek thrills (Steinberg, 2008).  One of the world’s leading experts on adolescent development, Laurence Steinberg, likens this to engaging a powerful engine before the braking system is in place. The result is that adolescents are prone to risky behaviors more often than children or adults.
+
+ 
+```{r fig-14-02, out.width="50%", fig.cap="A simulation of the risky behavior of drinking and driving.^[[Image](https://www.scott.af.mil/News/Features/Display/Article/162484/medical-group-moulage-experts-help-teens-understand-dangers-of-drinking-and-dri/) by the [Scott Air Force Base](https://www.scott.af.mil/) is in the public domain]"}
+
+knitr::include_graphics("https://media.defense.gov/2010/Apr/14/2000374669/-1/-1/0/100408-F-1426K-193.JPG")
+
+```
+
+Although the most rapid cognitive changes occur during childhood, the brain continues to develop throughout adolescence, and even into the 20s (Weinberger, Elvevåg, & Giedd, 2005).  The brain continues to form new neural connections and becomes faster and more efficient because it **prunes**, or casts off unused neurons and connections (Blakemore, 2008), and produces **myelin**, the fatty tissue that forms around axons and neurons, which helps speed transmissions between different regions of the brain (Rapoport et al., 1999). This time of rapid cognitive growth for teens, making them more aware of their potential and capabilities, causes a great amount of disequilibrium for them. Theorists have researched cognitive changes and functions and have formed theories based on this developmental period.^[Content by Dawn Rymond is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [Adolescent Development](https://nobaproject.com/modules/adolescent-development?r=LDE2MjU3) by [Jennifer Lansford](https://nobaproject.com/modules/adolescent-development#authors) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US)]
+
+## Cognitive Theorists: Piaget, Elkind, Kohlberg, and Gilligan 
+
+### Jean Piaget: Formal Operational Stage of Cognitive Development 
+
+Cognition refers to thinking and memory processes, and cognitive development refers to long-term changes in these processes. One of the most widely known perspectives about **cognitive development** is the cognitive stage theory of a Swiss psychologist named **Jean Piaget**. Piaget created and studied an account of how children and youth gradually become able to think logically and scientifically. Because his theory is especially popular among educators, we focus on it in this chapter.
+
+Piaget was a **psychological constructivist**: in his view, learning was proceeded by the interplay of assimilation (adjusting new experiences to fit prior concepts) and accommodation (adjusting concepts to fit new experiences). The to-and-fro of these two processes leads not only to short-term learning, but also to long-term **developmental change**. The long-term developments are really the main focus of Piaget’s cognitive theory.
+
+As you might remember, Piaget proposed that cognition developed through distinct stages from birth through the end of adolescence. By stages he meant a sequence of thinking patterns with four key features:
+
+1. They always happen in the same order.
+
+2. No stage is ever skipped.
+
+3. Each stage is a significant transformation of the stage before it.
+
+4. Each later stage incorporated the earlier stages into itself.
+
+Basically this is the “staircase” model of development. Piaget proposed four major stages of cognitive development, and called them (1) sensorimotor intelligence, (2) preoperational thinking, (3) concrete operational thinking, and (4) formal operational thinking. Each stage is correlated with an age period of childhood, but only approximately. Formal operational thinking appears in adolescence.^[[Educational Psychology – Cognitive Development: The Theory of Jean Piaget](https://courses.lumenlearning.com/suny-educationalpsychology/chapter/cognitive-development-the-theory-of-jean-piaget/) by Kelvin Seifert and Rosemary Sutton is licensed under [CC BY](https://creativecommons.org/licenses/by/2.0/)]
+
+During the formal operational stage, adolescents are able to understand abstract principles.  They are no longer limited by what can be directly seen or heard, and are able to contemplate such constructs as beauty, love, freedom, and morality. Additionally, while younger children solve problems through trial and error, adolescents demonstrate **hypothetical-deductive** reasoning, which is developing hypotheses based on what might logically occur. They are able to think about all the possibilities in a situation beforehand, and then test them systematically, (Crain, 2005) because they are able to engage in true scientific thinking. 
+
+
+```{r fig-14-01, out.width="50%", fig.cap="Teenage thinking is characterized by the ability to reason logically and solve hypothetical problems such as how to design, plan, and build a structure.^[[Image](https://www.flickr.com/photos/rdecom/7402015974/) by the [U.S. Army CCDC](https://www.flickr.com/people/rdecom/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)]"}
+
+# knitr::include_graphics("")
+
+```
+ 
+```{r fig-14-03, out.width="50%", fig.cap="Piaget proposed that formal operational thinking is the last stage in cognitive development.^[Image by [Ian Joslin](https://koolkoalaj.com/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).]"}
+
+# knitr::include_graphics("")
+
+```
+
+#### Does everyone reach formal operations? 
+
+According to Piaget, most people attain some degree of formal operational thinking, but use formal operations primarily in the areas of their strongest interest (Crain, 2005). In fact, most adults do not regularly demonstrate formal operational thought. A possible explanation is that an individual’s thinking has not been sufficiently challenged to demonstrate formal operational thought in all areas. 
+
+#### Adolescent Egocentrism
+
+Once adolescents can understand abstract thoughts, they enter a world of hypothetical possibilities and demonstrate **egocentrism**, a heightened self-focus. The egocentricity comes from attributing unlimited power to their own thoughts (Crain, 2005). Piaget believed it was not until adolescents took on adult roles that they would be able to learn the limits to their own thoughts. 
+
+### David Elkind: On Piaget’s Theory
+
+David Elkind (1967) expanded on the concept of Piaget’s adolescent egocentricity. Elkind theorized that the physiological changes that occur during adolescence result in adolescents being primarily concerned with themselves. Additionally, since adolescents fail to differentiate between what others are thinking and their own thoughts, they believe that others are just as fascinated with their behavior and appearance. This belief results in the adolescent anticipating the reactions of others, and consequently constructing an imaginary audience. The **imaginary audience** is the adolescent’s belief that those around them are as concerned and focused on their appearance as they themselves are (Schwartz, Maynard, & Uzelac, 2008, p. 441). Elkind thought that the imaginary audience contributed to the self-consciousness that occurs during early adolescence. The desire for privacy and the reluctance to share personal information may be a further reaction to feeling under constant observation by others. 
+
+
+```{r fig-14-04, out.width="50%", fig.cap="This teen is likely thinking, “they must be whispering about me.” ^[[Image](https://www.flickr.com/photos/53771866@N05/7040908861) by [Twentyfour Students](https://www.flickr.com/photos/53771866@N05/) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)]"}
+
+knitr::include_graphics("figures/figure-14-04.jpg")
+
+```
+
+Another important consequence of adolescent egocentrism is the **personal fable** or belief that one is unique, special, and invulnerable to harm. Elkind (1967) explains that because adolescents feel so important to others (imaginary audience) they regard themselves and their feelings as being special and unique. Adolescents believe that only they have experienced strong and diverse emotions, and therefore others could never understand how they feel. This uniqueness in one’s emotional experiences reinforces the adolescent’s belief of invulnerability, especially to death. Adolescents will engage in risky behaviors, such as drinking and driving or unprotected sex, and feel they will not suffer any negative consequences. Elkind believed that adolescent egocentricity emerged in early adolescence and declined in middle adolescence, however, recent research has also identified egocentricity in late adolescence (Schwartz, et al., 2008).
+
+#### Consequences of Formal Operational Thought
+
+As adolescents are now able to think abstractly and hypothetically, they exhibit many new ways of reflecting on information (Dolgin, 2011). For example, they demonstrate greater **introspection** or thinking about one’s thoughts and feelings. They begin to imagine how the world could be, which leads them to become **idealistic** or insisting upon high standards of behavior. Because of their idealism, they may become critical of others, especially adults in their life. Additionally, adolescents can demonstrate **hypocrisy**, or pretend to be what they are not. Since they are able to recognize what others expect of them, they will conform to those expectations for their emotions and behavior seemingly hypocritical to themselves. Lastly, adolescents can exhibit **pseudostupidity**, which is when they approach problems at a level that is too complex and they fail because the tasks are too simple. Their new ability to consider alternatives is not completely under control and they appear “stupid” when they are in fact bright, just inexperienced.^[[Lifespan Development: A Psychological Perspective](http://dept.clcillinois.edu/psy/LifespanDevelopment.pdf) by Martha Lally and Suzanne Valentine-French is licensed under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)]
+
+
+### Lawrence Kohlberg: Moral Development 
+
+Kohlberg (1963) built on the work of Piaget and was interested in finding out how our moral reasoning changes as we get older. He wanted to find out how people decide what is right and what is wrong (moral justice). Just as Piaget believed that children’s cognitive development follows specific patterns, Kohlberg argued that we learn our moral values through active thinking and reasoning, and that moral development follows a series of stages. Kohlberg's six stages are generally organized into three levels of moral reasons. To study moral development, Kohlberg posed moral dilemmas to children, teenagers, and adults. You may remember one such dilemma, the Heinz dilemma, that was introduced in Chapter 12:^[[Lifespan Development - Module 6: Middle Childhood](https://courses.lumenlearning.com/lifespandevelopment2/chapter/physical-development-2/) by [Lumen Learning](http://opencourselibrary.org/econ-201/) references [Psyc 200 Lifespan Psychology](http://opencourselibrary.org/econ-201/) by Laura Overstreet, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [Beginning Psychology – Chapter 6: Growing and Developing](https://2012books.lardbucket.org/books/beginning-psychology/s10-growing-and-developing.html) by Charles Stangor is licensed under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)]
+
+
+> A woman was on her deathbed. There was one drug that the doctors thought might save her. It was a form of radium that a druggist in the same town had recently discovered. The drug was expensive to make, but the druggist was charging ten times what the drug cost him to produce. He paid $200 for the radium and charged $2,000 for a small dose of the drug. The sick woman's husband, Heinz, went to everyone he knew to borrow the money, but he could only get together about $1,000 which is half of what it cost. He told the druggist that his wife was dying and asked him to sell it cheaper or let him pay later. But the druggist said: “No, I discovered the drug and I'm going to make money from it.” So Heinz got desperate and broke into the man's laboratory to steal the drug for his wife. Should Heinz have broken into the laboratory to steal the drug for his wife? Why or why not?^[[Heinz Dilemma](https://en.wikipedia.org/wiki/Heinz_dilemma) by [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)]
+
+Based on their reasoning behind their responses (not whether they thought Heinz made the right choice or not), Kohlberg placed each person in one of the stages as described in the image on the following page:
+
+ 
+```{r fig-14-05, out.width="50%", fig.cap="Kohlberg's six stages of moral development.^[[Image](https://commons.wikimedia.org/wiki/File:Kohlberg_Model_of_Moral_Development.svg) by Lawrence Kohlberg, Em Griffin,and cmglee is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)]"}
+
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Kohlberg_Model_of_Moral_Development.svg/400px-Kohlberg_Model_of_Moral_Development.svg.png")
+
+```
+
+Although research has supported Kohlberg’s idea that moral reasoning changes from an early emphasis on punishment and social rules and regulations to an emphasis on more general ethical principles, as with Piaget’s approach, Kohlberg’s stage model is probably too simple. For one, children may use higher levels of reasoning for some types of problems, but revert to lower levels in situations where doing so is more consistent with their goals or beliefs (Rest, 1979).  Second, it has been argued that this stage model is particularly appropriate for Western countries, rather than non-Western, samples in which allegiance to social norms (such as respect for authority) may be particularly important (Haidt, 2001). In addition, there is little correlation between how children score on the moral stages and how they behave in real life.
+Perhaps the most important critique of Kohlberg’s theory is that it may describe the moral development of boys better than it describes that of girls.  Carol Gilligan has argued that, because of differences in their socialization, males tend to value principles of justice and rights, whereas females value caring for and helping others. Although there is little evidence that boys and girls score differently on Kohlberg’s stages of moral development (Turiel, 1998), it is true that girls and women tend to focus more on issues of caring, helping, and connecting with others than do boys and men (Jaffee & Hyde, 2000).^[[Beginning Psychology – Chapter 6: Growing and Developing](https://2012books.lardbucket.org/books/beginning-psychology/s10-growing-and-developing.html) by Charles Stangor is licensed under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)]
+
+### Carol Gilligan: Morality of Care
+
+Carol Gilligan, whose ideas center on a **morality of care**, or system of beliefs about human responsibilities, care, and consideration for others, proposed three moral positions that represent different extents or breadth of ethical care. Unlike Kohlberg, or Piaget, she does not claim that the positions form a strictly developmental sequence, but only that they can be ranked hierarchically according to their depth or subtlety. In this respect her theory is “semi-developmental” in a way similar to Maslow’s theory of motivation (Brown & Gilligan, 1992; Taylor, Gilligan, & Sullivan, 1995). The following table summarizes the three moral positions from Gilligan’s theory:
+
+
+```{r table-14-01, include=F}
+
+table_14_01 <- read_csv("tables/table-14-01.csv")
+
+```
+
+
+```{r}
+
+table_14_01 %>% 
+        kable(caption = "Positions of Moral Development According to Gilligan")
+
+```
+
+
+### Position 1: Caring as Survival 
+
+The most basic kind of caring is a **survival orientation**, in which a person is concerned primarily with his or her own welfare. As a moral position, a survival orientation is obviously not satisfactory for classrooms on a widespread scale. If every student only looked out for himself or herself alone, classroom life might become rather unpleasant. Nonetheless, there are situations in which caring primarily about yourself is both a sign of good mental health and also relevant to teachers. For a child who has been bullied at school or sexually abused at home, for example, it is both healthy and morally desirable to speak out about the bullying or abuse—essentially looking out for the victim’s own needs at the expense of others’, including the bully’s or abuser’s. Speaking out requires a survival orientation and is healthy because in this case, the child is at least caring about herself.
+
+### Position 2: Conventional Caring
+
+A more subtle moral position is **caring for others**, in which a person is concerned about others’ happiness and welfare, and about reconciling or integrating others’ needs where they conflict with each other. In classrooms, students who operate from Position 2 can be very desirable in some ways; they can be kind, considerate, and good at fitting in and at working cooperatively with others. Because these qualities are very welcome in a busy classroom, it can be tempting for teachers to reward students for developing and using them for much of their school careers. The problem with rewarding Position 2 ethics, however, is that doing so neglects the student’s identity—his or her own academic and personal goals or values. Sooner or later, personal goals, values and identity need attention, and educators have a responsibility for assisting students to discover and clarify them. Unfortunately for teachers, students who know what they want may sometimes be more assertive and less automatically compliant than those who do not.
+
+### Position 3: Integrated Caring
+
+The most developed form of moral caring in Gilligan’s model is **integrated caring**, the coordination of personal needs and values with those of others. Now the morally good choice takes account of everyone *including* yourself, not everyone *except* yourself. 
+
+In classrooms, integrated caring is most likely to surface whenever teachers give students wide, sustained freedom to make choices. If students have little flexibility about their actions, there is little room for considering anyone’s needs or values, whether their own or others’. If the teacher says simply, “Do the homework on page 50 and turn it in tomorrow morning,” then compliance becomes the main issue, not moral choice. But suppose instead that she says something like this: “Over the next two months, figure out an inquiry project about the use of water resources in our town. Organize it any way you want—talk to people, read widely about it, and share it with the class in a way that all of us, including yourself, will find meaningful.” Although an assignment this general or abstract may not suit some teachers or students, it does pose moral challenges for those who do use it. Why? For one thing, students cannot simply carry out specific instructions, but must decide what aspect of the topic really matters to them. The choice is partly a matter of personal values. For another thing, students have to consider how the topic might be meaningful or important to others in the class. Third, because the time line for completion is relatively far in the future, students may have to weigh personal priorities (like spending time with family on the weekend) against educational priorities (working on the assignment a bit more on the weekend). Some students might have trouble making good choices when given this sort of freedom—and their teachers might therefore be cautious about giving such an assignment. But in a way these hesitations are part of Gilligan’s point: integrated caring is indeed more demanding than the caring based on survival or orientation to others, and not all students may be ready for it.^[[Educational Psychology - 4.5 Moral Development: forming a sense of rights and responsibilities](https://cnx.org/contents/zmxetoTT@2.1:GFEAdQa3@1/Moral-development-forming-a-sense-of-rights-and-responsibilities) by [CNX Psychology](https://cnx.org/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [Contemporary Educational Psychology/Chapter 3: Student Development/Moral Development](https://en.wikibooks.org/wiki/Contemporary_Educational_Psychology/Chapter_3:_Student_Development/Moral_Development) by [Wikibooks](https://en.wikibooks.org/wiki/Main_Page) is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)]
+
+We’ve learned that major changes in the structure and functioning of the brain occur during adolescence and result in the theories about cognitive and behavioral developments (Steinberg, 2008). These cognitive changes include how information is processed, and are fostered by improvements in cognitive function during early adolescence such as in memory, encoding, and storage as well as ability to think about thinking, therefore becoming better at information processing functions.^[Content by Dawn Rymond is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)]
+
+## Information Processing Theory: Memory, Encoding, and Storage
+
+ 
+```{r fig-14-06, out.width="50%", fig.cap="The brain’s developments during adolescence allow for greater information processing functions.^[[Image](https://pixabay.com/photos/skull-brain-head-science-medical-1209733/) by [Free-Photos](https://pixabay.com/users/Free-Photos-242387/) on [Pixabay](https://pixabay.com/)]"}
+
+knitr::include_graphics("https://cdn.pixabay.com/photo/2016/02/19/11/28/skull-1209733_960_720.jpg")
+
+```
+
+### Memory
+
+Memory is an information processing system that we often compare to a computer. Memory is the set of processes used to encode, store, and retrieve information over different periods of time. 
+
+ 
+```{r fig-14-07, out.width="50%", fig.cap="The memory process.^[Image by [Ian Joslin](https://koolkoalaj.com/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)]"}
+
+# knitr::include_graphics("")
+
+```
+
+
+Encoding involves the input of information into the memory system. Storage is the retention of the encoded information. Retrieval, or getting the information out of memory and back into awareness, is the third function.
+
+#### Encoding (Input of Information to Memory)
+
+We get information into our brains through a process called **encoding**, which is the input of information into the memory system. Once we receive sensory information from the environment, our brains label or code it. We organize the information with other similar information and connect new concepts to existing concepts. Encoding information occurs through both automatic processing and effortful processing.  For example, if someone asks you what you ate for lunch today, more than likely you could recall this information quite easily. This is known as **automatic processing**, or the encoding of details like time, space, frequency, and the meaning of words. Automatic processing is usually done without any conscious awareness.
+
+Recalling the last time you studied for a test is another example of automatic processing. But what about the actual test material you studied? It probably required a lot of work and attention on your part to encode that information; this is known as **effortful processing**.  When you first learn new skills such as driving a car, you have to put forth effort and attention to encode information about how to start a car, how to brake, how to handle a turn, and so on. Once you know how to drive, you can encode additional information about this skill automatically. 
+
+#### Storage (Retaining Information in Memory)
+
+Once the information has been encoded, we have to retain it. Our brains take the encoded information and place it in storage. Storage is the creation of a permanent record of information.  In order for a memory to go into storage (i.e., long-term memory), it has to pass through three distinct stages: Sensory Memory, Short-Term Memory, and finally Long-Term Memory. These stages were first proposed by Richard Atkinson and Richard Shiffrin (1968). Their model of human memory, called Atkinson-Shiffrin (A-S), is based on the belief that we process memories in the same way that a computer processes information.
+
+
+```{r fig-14-08, fig.cap="According to the Atkinson-Shiffrin model of memory, information passes through three distinct stages in order for it to be stored in long-term memory.^[[Image](https://commons.wikimedia.org/wiki/File:The_modal_model.png) by [Educ320](https://commons.wikimedia.org/w/index.php?title=User:Educ320&action=edit&redlink=1) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) (image modified by [Ian Joslin](https://koolkoalaj.com/) from [COCOER](https://www.canyons.edu/Offices/DistanceLearning/OER/Pages/OpenTextbookReviewCriteria.aspx))]"}
+
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/9/97/The_modal_model.png")
+
+```
+
+##### Sensory Memory (First Stage of Storage)
+
+In the Atkinson-Shiffrin model, stimuli from the environment are processed first in sensory memory, storage of brief sensory events, such as sights, sounds, and tastes. It is very brief storage—up to a couple of seconds. We are constantly bombarded with sensory information. We cannot absorb all of it, or even most of it. And most of it has no impact on our lives. For example, what was your professor wearing the last class period? As long as the professor was dressed appropriately, it does not really matter what they were wearing. Sensory information about sights, sounds, smells, and even textures, which we do not view as valuable information, we discard. If we view something as valuable, the information will move into our short-term memory system.
+
+One study of sensory memory researched the significance of valuable information on short-term memory storage. J. R. Stroop discovered a memory phenomenon in the 1930s: you will name a color more easily if it appears printed in that color, which is called the Stroop effect. 
+
+The Stroop Effect describes why it is difficult for us to name a color when the word and the color of the word are different. To test this out a person is instructed not to read the words below, but to say the color the word is printed in. For example, upon seeing the word “yellow” in green print, they should say “green,” not “yellow.” This experiment is fun, but it’s not as easy as it seems.
+
+```{r fig-14-stroop, out.width="50%", fig.cap="[Image](https://www.oercommons.org/courseware/module/25866/overview) by [Laura Lucas](https://www.oercommons.org/courseware/module/25866/overview) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"}
+
+knitr::include_graphics("https://s3-us-west-2.amazonaws.com/courses-images-archive-read-only/wp-content/uploads/sites/902/2015/02/23224849/CNX_Psych_08_01_Stroop.jpg")
+
+```
+
+
+
+##### Short-Term Memory or Working Memory (Second Stage of Storage)
+
+**Short-term memory** is a temporary storage system that processes incoming sensory memory; sometimes it is called working memory. Short-term memory takes information from sensory memory and sometimes connects that memory to something already in long-term memory. Short-term memory storage lasts about 20 seconds. Think of short-term memory as the information you have displayed on your computer screen—a document, a spreadsheet, or a web page. Information in short-term memory either goes to long-term memory (when you save it to your hard drive) or it is discarded (when you delete a document or close a web browser).
+
+George Miller (1956), in his research on the capacity of memory, found that most people can retain about seven items in short-term memory. Some remember five, some nine, so he called the capacity of short-term memory the range of seven items plus or minus two. 
+
+To explore the capacity and duration of short-term memory, two people can try this activity. One person reads the strings of random numbers below out loud to the other, beginning each string by saying, “Ready?” and ending each by saying, “Recall.” Then the second person should try to write down the string of numbers from memory.
+
+```{r fig-14-stm, out.width="50%", fig.cap="[Image](https://www.oercommons.org/courseware/module/25866/overview) by [Laura Lucas](https://www.oercommons.org/courseware/module/25866/overview) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"}
+
+knitr::include_graphics("https://s3-us-west-2.amazonaws.com/courses-images-archive-read-only/wp-content/uploads/sites/902/2015/02/23224851/CNX_Psych_08_01_Numbers.jpg")
+
+```
+
+
+
+This can be used to determine the longest string of digits that you can store. For most people, this will be close to seven, Miller’s famous seven plus or minus two.  Recall is somewhat better for random numbers than for random letters (Jacobs, 1887) and is also often slightly better for information we hear (**acoustic encoding**, which is the encoding of sounds) rather than what we see (**visual encoding**, which is the encoding of images and words in particular) (Anderson, 1969).
+
+##### Long-Term Memory (Third and Final Stage of Storage)
+
+**Long-term memory** is the continuous storage of information. Unlike short-term memory, the storage capacity of long-term memory has no limits. It encompasses all the things you can remember that happened more than just a few minutes ago to all of the things that you can remember that happened days, weeks, and years ago. In keeping with the computer analogy, the information in your long-term memory would be like the information you have saved on the hard drive. It isn’t there on your desktop (your short-term memory), but you can pull up this information when you want it, at least most of the time. Not all long-term memories are strong memories. Some memories can only be recalled through prompts. For example, you might easily recall a fact— “What is the capital of the United States?”—or a procedure—“How do you ride a bike?”—but you might struggle to recall the name of the restaurant you had dinner at when you were on vacation in France last summer. A prompt, such as that the restaurant was named after its owner, who spoke to you about your shared interest in soccer, may help you recall (retrieve) the name of the restaurant.
+
+#### Retrieval (Finding Memories)
+
+So you have worked hard to encode via effortful processing (a lot of work and attention on your part in order to encode that information) and store some important information for your upcoming final exam. How do you get that information back out of storage when you need it? The act of getting information out of memory storage and back into conscious awareness is known as **retrieval**. This would be similar to finding and opening a paper you had previously saved on your computer’s hard drive. Now it’s back on your desktop, and you can work with it again. Our ability to retrieve information from long-term memory is vital to our everyday functioning. You must be able to retrieve information from memory in order to do everything from knowing how to brush your hair and teeth, to driving to work, to knowing how to perform your job once you get there.
+
+#### Long-Term Memory Retrieval (Storage System): Recall, Recognition, Relearning, and Forgetting
+
+There are three ways you can retrieve information out of your long-term memory storage system: recall, recognition, and relearning. **Recall** is what we most often think about when we talk about memory retrieval: it means you can access information without cues. For example, you would use recall for an essay test. **Recognition** happens when you identify information that you have previously learned after encountering it again. It involves a process of comparison. When you take a multiple-choice test, you are relying on recognition to help you choose the correct answer. The third form of retrieval is **relearning**, and it’s just what it sounds like, it involves learning information that you previously learned. Whitney took Spanish in high school, but after high school she did not have the opportunity to speak Spanish. Whitney is now 31, and her company has offered her an opportunity to work in their Mexico City office. In order to prepare herself, she enrolls in a Spanish course at the local community college. She’s surprised at how quickly she’s able to pick up the language after not speaking it for 13 years; this is an example of relearning.
+
+#### Forgetting (It Wasn’t Locked In)
+
+As we just learned, your brain must do some work (effortful processing) to encode information and move it into short-term, and ultimately long-term memory. This has strong implications for a student, as it can impact their learning – if one doesn’t work to encode and store information, it will likely be forgotten.  Research indicates that people forget 80 percent of what they learn only a day later. This statistic may not sound very encouraging, given all that you’re expected to learn and remember as a college student. Really, though, it points to the importance of a study strategy other than waiting until the night before a final exam to review a semester’s worth of readings and notes. When you learn something new, the goal is to “lock it in” sooner rather than later, and move it from short-term memory to long-term memory, where it can be accessed when you need it (like at the end of the semester for your final exam or maybe years from now).  The next section will explore a variety of strategies that can be used to process information more deeply and help improve retrieval.^[[Memory and Information Processing](https://www.oercommons.org/courseware/module/25866/overview) by [Laura Lucas](https://www.oercommons.org/profile/141370) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)]
+
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "blue">
+##### Memory Strategies^[[Memory and Information Processing](https://www.oercommons.org/courseware/module/25866/overview) by [Laura Lucas](https://www.oercommons.org/profile/141370) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)]{-}
+
+###### Knowing What to Know
+
+How can you decide what to study and what you need to know? The answer is to prioritize what you’re trying to learn and memorize, rather than trying to tackle all of it. Below are some strategies to help you do this:
+
+* **Think about concepts rather than facts:** Most of the time instructors are concerned about you learning about the key concepts in a subject or course rather than specific facts.
+
+* **Take cues from your instructor:** Pay attention to what your instructor writes on the board, mentions repeatedly in class, or includes in study guides and handouts, they are likely core concepts that you’ll want to focus on. 
+
+* **Look for key terms:** Textbooks will often put key terms in bold or italics. 
+
+* **Use summaries:** Read end of chapter summaries, or write your own, to check your understanding of the main elements of the reading. 
+
+###### Transferring Information from Short-Term Memory to Long-Term Memory
+
+In the previous discussion of how memory works, the importance of making intentional efforts to transfer information from short-term to long-term memory was noted. Below are some strategies to facilitate this process:
+
+* **Start reviewing new material immediately:** Remember that people typically forget a significant amount of new information within 24 hours of learning it. 
+
+* **Study frequently for shorter periods of time:** If you want to improve the odds of recalling course material by the time of an exam or in future class, try reviewing it a little bit every day.
+
+###### Strengthening your Memory
+
+How can you work to strengthen your overall memory? Some people have stronger memories than others but memorizing new information takes work for anyone. Below are some strategies that can aid memory:
+
+* **Rehearsal:** One strategy is rehearsal, or the conscious repetition of information to be remembered (Craik & Watkins, 1973). Academic learning comes with time and practice, and at some point the skills become second nature. 
+
+* **Incorporate visuals:** Visual aids like note cards, concept maps, and highlighted text are ways of making information stand out. These aids make the information to be memorized seem more manageable and less daunting.
+
+* **Create mnemonics:** Memory devices known as mnemonics can *help you retain information while only needing to remember a unique phrase or letter pattern that stands out*. They are especially useful when we want to recall larger bits of information such as steps, stages, phases, and parts of a system (Bellezza, 1981).  There are different types of mnemonic devices:
+
+     * **Acronym:** An acronym is a word formed by the first letter of each of the words you want to remember. Such as HOMES for the Great Lakes (Huron, Ontario, Michigan, Erie, and Superior)
+
+     * **Acrostic:** In an acrostic, you make a phrase of all the first letters of the words. For example, if you need to remember the order of mathematical operations, recalling the sentence “Please Excuse My Dear Aunt Sally” will help you, because the order of mathematical operations is Parentheses, Exponents, Multiplication, Division, Addition, Subtraction. 
+
+     * **Jingles:** Rhyming tunes that contain key words related to the concept, such as “i before e, except after c” are jingles.
+
+     * **Visual:** Using a visual to help you remember is also useful. Such as the knuckle mnemonic shown in the image below to help you remember the number of days in each month. Months with 31 days are represented by the protruding knuckles and shorter months fall in the spots between knuckles. 
+
+ 
+```{r fig-14-09, out.width="50%", fig.cap="You might use a mnemonic device to help you remember someone’s name, a mathematical formula, or the six levels of Bloom’s taxonomy.^[[Image](https://www.oercommons.org/courseware/module/25866/overview) by [Laura Lucas](https://www.oercommons.org/courseware/module/25866/overview) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)]"}
+
+knitr::include_graphics("https://s3-us-west-2.amazonaws.com/courses-images-archive-read-only/wp-content/uploads/sites/902/2015/02/23224911/CNX_Psych_08_04_Knuckles.jpg")
+
+```
+
+
+* **Chunking:** Another strategy is chunking, where you organize information into manageable bits or chunks, such as turning a phone number you remember into chunks.
+
+* **Connect new information to old information:** It’s easier to remember new information if you can connect it to old information, a familiar frame of reference, or a personal experience. 
+
+* **Get quality sleep:**  Although some people require more or less sleep than the recommended amount, most people should aim for six to eight hours every night. 
+
+</div>
+
+## Adolescence (A Time of Transitions) 
+
+Cognitive growth and a new found sense of freedom and independence makes it both easier and more difficult for teens when making choices and coping with upcoming transitions and life decisions. 
+
+### Academic Achievement, High School Dropouts, and Gap Years
+
+As Adolescents grow older, they encounter age-related transition points that require them to progress into a new role, such as go to college, take a year off or Gap Year, or start to work towards a career.  Educational expectations vary not only from culture to culture, but also from class to class. While middle- or upper-class families may expect their daughter or son to attend a four-year university after graduating from high school, other families may expect their child to immediately begin working full-time, as many within their families have done before.^[Content by Dawn Rymond is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [Introduction to Sociology 2e – Chapter 5.4: Socialization Across the Life Course](https://cnx.org/contents/AgQDEnLI@11.2:JpBA6gIv@5/Socialization-Across-the-Life-Course) by [OpenStax](https://cnx.org/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)]
+
+#### Academic Achievement
+
+Adolescents spend more waking time in school than in any other context (Eccles & Roeser, 2011). Academic achievement during adolescence is predicted by interpersonal (e.g., parental engagement in adolescents’ education), intrapersonal (e.g., intrinsic motivation), and institutional (e.g., school quality) factors. Academic achievement is important in its own right as a marker of positive adjustment during adolescence but also because academic achievement sets the stage for future educational and occupational opportunities. The most serious consequence of school failure, particularly dropping out of school, is the high risk of unemployment or underemployment in adulthood that follows. High achievement can set the stage for college or future vocational training and opportunities.^[[Adolescent Development](https://nobaproject.com/modules/adolescent-development?r=LDE2MjU3) by [Jennifer Lansford](https://nobaproject.com/modules/adolescent-development#authors) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US)]
+
+#### High School Dropouts 
+
+The **status dropout** rate refers to the percentage of 16 to 24 year-olds who are not enrolled in school and do not have high school credentials (either a diploma or an equivalency credential such as a General Educational Development [GED] certificate). The dropout rate is based on sample surveys of the civilian, non- institutionalized population, which excludes persons in prisons, persons in the military, and other persons not living in households.^[U.S. Department of Education, National Center for Education Statistics. (2015). *The Condition of Education 2015* (NCES 2015-144), Status Dropout Rates.; [Lifespan Development: A Psychological Perspective](http://dept.clcillinois.edu/psy/LifespanDevelopment.pdf) by Martha Lally and Suzanne Valentine-French is licensed under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)]  The dropout rate among high school students has declined from a rate of 9.7% in 2006, to 5.4% in 2017.^[[The Condition of Education](https://nces.ed.gov/programs/coe/indicator_coj.asp) by the [National Center for Education Statistics](https://nces.ed.gov/) is in the public domain]
+
+#### Gap Year: How: different Societies Socialize Young Adults
+
+Age transition points require socialization into new roles that can vary widely between societies. For example, in the United Kingdom, when teens finish their secondary schooling (aka high school in the United States), they often take a year “off” before entering college. Frequently, they might take a job, travel, or find other ways to experience another culture. Prince William, the Duke of Cambridge, spent his gap year practicing survival skills in Belize, teaching English in Chile, and working on a dairy farm in the United Kingdom (Prince of Wales 2012a). His brother, Prince Harry, advocated for AIDS orphans in Africa and worked as a jackeroo (a novice ranch hand) in Australia (Prince of Wales 2012b).
+
+ 	 
+```{r fig-14-10, out.width="50%", fig.cap="Prince William.^[[Image](https://en.wikipedia.org/wiki/File:Prince_William,_Duke_of_Cambridge.jpg) is in the public domain]"}
+
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Prince_William%2C_Duke_of_Cambridge.jpg/480px-Prince_William%2C_Duke_of_Cambridge.jpg")
+
+```
+
+
+```{r fig-14-11, out.width="50%", fig.cap="Prince Harry.^[[Image](https://commons.wikimedia.org/wiki/File:Prince_Harry_Trooping_the_Colour_cropped.JPG) by [Carfax2](https://commons.wikimedia.org/w/index.php?title=User:Carfax2&action=edit&redlink=1) is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)]"}
+
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Prince_Harry_Trooping_the_Colour_cropped.JPG/520px-Prince_Harry_Trooping_the_Colour_cropped.JPG")
+
+```
+
+
+In the United States, this life transition point is socialized quite differently, and taking a year off is generally frowned upon. Instead, U.S. youth are encouraged to pick career paths by their mid-teens, to select a college and a major by their late teens, and to have completed all collegiate schooling or technical training for their career by their early twenties.
+
+In other nations, this phase of the life course is tied into conscription, a term that describes compulsory military service. Egypt, Switzerland, Turkey, and Singapore all have this system in place. Youth in these nations (often only the males) are expected to undergo a number of months or years of military training and service.^[[Introduction to Sociology 2e – Chapter 5.4: Socialization Across the Life Course](https://cnx.org/contents/AgQDEnLI@11.2:JpBA6gIv@5/Socialization-Across-the-Life-Course) by [OpenStax](https://cnx.org/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)]
+
+### Adolescents and Independence: Career, Work Experience, and Driving
+
+#### Adolescents in the Workforce
+
+Many adolescents work either summer jobs, or during the school year, or may work in lieu of college.  Holding a job may offer teenagers extra funds, provide the opportunity to learn new skills, foster ideas about future careers, and perhaps shed light on the true value of money. However, there are numerous concerns about teenagers working, especially during the school year. Several studies have found that working more than 20 hours per week can lead to declines in grades, a general disengagement from school (Staff, Schulenberg, & Bachman, 2010; Lee & Staff, 2007; Marsh & Kleitman, 2005), an increase in substance abuse (Longest & Shanahan, 2007), engaging in earlier sexual behavior, and pregnancy (Staff et al., 2011).  Like many employee groups, teens have seen a drop in the number of jobs. The summer jobs of previous generations have been on a steady decline, according to the United States Department of Labor, Bureau of Labor Statistics (2016). 
+
+ 
+```{r fig-14-12, out.width="50%", fig.cap="How many hours and the reasons why this teen works, will influence the effects of her job.^[[Image](https://unsplash.com/photos/9fHMo1-5Io8) by [Brooke Cagle](https://unsplash.com/@brookecagle) on [Unsplash](https://unsplash.com/)]"}
+
+knitr::include_graphics("https://images.unsplash.com/photo-1507914464562-6ff4ac29692f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80")
+
+```
+
+#### The Working Poor
+
+A major concern in the United States is the rising number of young people who choose to work rather than continue their education and are growing up or continuing to grow up in poverty. Growing up poor or entering the workforce too soon, can cut off access to the education and services people need to move out of poverty and into stable employment. Research states that education was often a key to stability, and those raised in poverty are the ones least able to find well-paying work, perpetuating a cycle. Those who work only part time, may it be teens or whomever, are more likely to be classified as working poor than are those with full-time employment; higher levels of education lead to less likelihood of being among the working poor.^[[Lifespan Development: A Psychological Perspective](http://dept.clcillinois.edu/psy/LifespanDevelopment.pdf) by Martha Lally and Suzanne Valentine-French is licensed under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/); [Work in the United States](https://cnx.org/contents/cdCaIHP1@3/Work-in-the-United-States) by [OpenStax](https://cnx.org/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)]
+  In 2017, the working poor included 6.9 million Americans, down from 7.6 million in 2011 (U.S. Bureau of Labor Statistics, 2019).^[[A profile of the working poor, 2017](https://www.bls.gov/opub/reports/working-poor/2017/home.htm) by the [BLS](https://www.bls.gov/home.htm) is in the public domain] 
+
+#### Teenage Drivers 
+
+Driving gives teens a sense of freedom and independence from their parents. It can also free up time for parents as they are not shuttling teens to and from school, activities, or work. The National Highway Traffic Safety Administration (NHTSA) reports that in 2014 young drivers (15 to 20 year-olds) accounted for 5.5% (11.7 million) of the total number of drivers (214 million) in the US (National Center for Statistics and Analysis (NCSA), 2016). However, almost 9% of all drivers involved in fatal crashes that year were young drivers (NCSA, 2016), and according to the National Center for Health Statistics (2014), motor vehicle accidents are the leading cause of death for 15 to 20 year-olds. “In all motorized jurisdictions around the world, young, inexperienced drivers have much higher crash rates than older, more experienced drivers” (NCSA, 2016, p. 1). 
+
+The rate of fatal crashes is higher for young males than for young females, although for both genders the rate was highest for the 15-20 year-old age group. For young males, the rate for fatal crashes was approximately 46 per 100,000 drivers, compared to 20 per 100,000 drivers for young females. The NHTSA (NCSA, 2016) reported that of the young drivers who were killed and who had alcohol in their system, 81% had a blood alcohol count past what was considered the legal limit. Fatal crashes involving alcohol use were higher among young men than young women. The NHTSA also found that teens were less likely to use seat belt restraints if they were driving under the influence of alcohol, and that restraint use decreased as the level of alcohol intoxication increased.
+
+AAA completed a study in 2014 that showed that the following are risk factors for accidents for teen drivers:
+
+* Following cars too closely
+
+* Driving too fast for weather and road conditions
+
+* Distraction from fellow passengers
+
+* Distraction from cell phones
+
+According to the NHTSA, 10% of drivers aged 15 to 19 years involved in fatal crashes were reported to be distracted at the time of the crash; the highest figure for any age group (NCSA, 2016). Distraction coupled with inexperience has been found to greatly increase the risk of an accident (Klauer et al., 2014). 
+
+The NHTSA did find that the number of accidents has been on a decline since 2005. They attribute this to greater driver training, more social awareness to the challenges of driving for teenagers, and to changes in laws restricting the drinking age. The NHTSA estimates that the raising of the legal drinking age to 21 in all 50 states and the District of Columbia has saved 30,323 lives since 1975.^[[Lifespan Development: A Psychological Perspective](http://dept.clcillinois.edu/psy/LifespanDevelopment.pdf) by Martha Lally and Suzanne Valentine-French is licensed under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)]
+
+
+ 
+```{r fig-14-13, out.width="50%", fig.cap="This teen needs to have solid driver training and awareness of driving challenges.^[[Image](https://www.flickr.com/photos/statefarm/14614984998) by [State Farm](https://www.flickr.com/photos/statefarm/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)]"}
+
+# knitr::include_graphics("")
+
+```
+
+## Wisdom and Risk-Taking
+
+Whether it is a sense heightened of ability (we’ve learned a lot about the egocentrism, personal fable, imaginary audience, or the lack of development of prefrontal cortex), or just poor decision making, many teens tend to take unnecessary risks. Wisdom, or the capacity for insight and judgment that is developed through experience, increases between the ages of 14 and 25, and increases with maturity, life experiences, and cognitive development. Wisdom increases gradually and is not the same as intelligence, and adolescents do not improve substantially on IQ tests since their scores are relative to others in their age group, as everyone matures at approximately the same rate. Adolescents must be monitored because they are more likely to take risks than adults. The behavioral decision-making theory proposes that adolescents and adults both weigh the potential rewards and consequences of an action. However, adolescents seem to give more weight to rewards, particularly social rewards, than do adults. Scaffolding adolescents until they show consistent and appropriate judgment will likely allow for fewer negative consequences.^[[Boundless Psychology – Human Development](https://courses.lumenlearning.com/boundless-psychology/chapter/adolescence/) by Boundless.com is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)] 
+
+<br/>
+
+<style>
+div.solid {
+border: 5px solid #FFA500;
+border-radius: 5px;
+padding: 20px;
+}
+</style>
+
+<div class = "solid">
+
+In this chapter we looked at:
+
+* Piaget’s formal operational stage 
+
+* Moral Development and Morality of Care theories
+
+* Memories in the Information Processing Theory 
+
+* Adolescent transitions and independence
+
+In the next chapter we will be examining adolescent social emotional development.
+
+</div>
+
+<br/>

@@ -1,0 +1,81 @@
+# Preface and Acknowledgments {-}
+
+## Changes Made in This Derivative {-}
+
+There were minor changes made in this book from the derivative of Version 1.2: [Understanding the Whole Child: Prenatal Development through Adolescence](https://drive.google.com/file/d/1aSoF5pvCGpgiNjVSV9Pdqg1W2jOFZXZP/view) by [College of the Canyons](http://www.canyons.edu/ztc), Jennifer Paris, Antoinette Ricardo, and Dawn Rymond and is used under a [CC BY 4.0 international license](https://creativecommons.org/licenses/by/4.0/)
+
+Those changes include:
+
+* The section headings were revised to remove duplicated section headings.
+* Several figures were not available and were omitted.
+* The figure numbers were revised to account for any unavailable figures.
+
+
+## Have Feedback or Resources to Share? {-}
+
+Catch a typo? Want to suggest a change to improve the book? Please send us your feedback in this [survey](https://forms.gle/VjzM4mwqBxjTT1Pr6).
+
+Did you use this book and make changes? Did you create supplementary resources (PowerPoints, activities, test/quiz banks, etc.)? Please put a creative commons license on those and share them back with us by joining and uploading them to the Google Group. If you are having issues, please contact [Jennifer.Paris@canyons.edu](mailto:Jennifer.Paris@canyons.edu).
+
+Looking for resources? See what has been compiled in the [Google Group](https://groups.google.com/forum/#!forum/understanding-the-whole-child-oer-resources).
+
+
+
+
+## Acknowledgements {-}
+
+I would like to thank:
+
+My department including my full-time faculty colleagues, Cindy Stephens and Wendy Ruiz, who supported me pursuing the grant that funded this book and believe in the purpose of our OER work.
+
+James Glapa-Grossklag for taking a chance on working with me for this grant before he really knew me and for all the opportunities I have been afforded since then.
+
+Brian Weston for his leadership, guidance, and just being there to help facilitate the amazing project that this book is part of.
+
+Alexa Johnson for her painstaking work on the book and taking words on pages and turning them into this beautiful book.
+
+Chloe McGinley, Joy Shoemate, Trudi Radtke, and any other OER and Online Education staff that helped me maintain my sanity in this project.
+
+My co-authors, Antoinette Ricardo and Dawn Rymond, for their tireless efforts and collaboration. 
+
+The peer reviewers, Michelle Hancock, Gina Peterson, and Ashlei Snead for widening the collaboration and their work to make the book better.
+
+The ECE 101 students of Spring 2019 at College of the Canyons for piloting the textbook, chapter by chapter with us and providing feedback and content that may be used to create supplementary resources.
+
+My family, especially my children Ashlynn and Aidan, for being understanding of the time and energy commitments that this book, the larger project it is part of, and my advocacy for OER has taken.
+
+Amanda Taintor, my colleague, ally, and co-conspirator in the effort to engage the field of Early Childhood Education in OER efforts.
+
+The larger OER community that keeps me thinking and pushing my understanding of what open is, what it should be, and what role I can play in that.
+
+
+**Jennifer Paris**
+
+<hr/>
+
+
+First and foremost, I would like to thank God for blessing me with an amazing job that allows me to teach and grow each and every day. Thank you to College of the Canyons and our whole OER team for making this vision a reality. Special thanks to Jennifer Paris who has not only mentored me and been a great friend, but has also lead us in this whole OER journey. I’m grateful to work for a such a wonderful department that sets the foundation for positive growth in children. 
+
+Thank you to my parents and my brother whose love and support has gotten me to where I am today. To my husband, Andres, thank you for always believing in me and pushing me to be the best I can be, I love you.
+
+To my children, Manolo and Paloma; this book is for you. Every day, you are my inspiration. Mamita te ama! 
+
+
+**Antoinette Ricardo**
+
+<hr/>
+
+
+Writing and contributing to this textbook has been a labor of love. My hope is that after students gain knowledge, they will continue to be inspired to learn and will be a positive role in the lives of children. 
+
+I would like to say a special thank you to College of the Canyons, ECE department. I’ve been very fortunate to be a part of this outstanding Open Educational Resources (OER) team, which has been a supportive and collaborative experience.  I’d like to thank Jennifer Paris, the faculty lead for the grant that funded the creation of this and other OER books for our department. 
+
+I am continually grateful to my family. Thank you, Nick, Jake, and Jordan, for your contually love and support.
+
+
+"Education is not the preparation for life; education is life itself."
+-John Dewey
+
+
+**Dawn Rymond**
+
