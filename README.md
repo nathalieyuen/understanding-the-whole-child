@@ -1,6 +1,6 @@
 # Understanding the Whole Child: Prenatal Development through Adolescence
 
-This repository contains the source files of the [bookdown](https://github.com/rstudio/bookdown) version of [Understanding the Whole Child: Prenatal Development through Adolescence](https://bookdown.org/nathalieyuen/paris-et-al-child-bookdown/)
+This repository contains the source files of the [bookdown](https://github.com/rstudio/bookdown) version of [Understanding the Whole Child: Prenatal Development through Adolescence](https://bookdown.org/nathalieyuen/understanding-the-whole-child/)
 book by Jennifer Paris, Antoinette Ricardo, and Dawn Rymond, and adapted by me (Nathalie Yuen).
 
 This book is about physical, cogntive, and social development during childhood and adolescence.
