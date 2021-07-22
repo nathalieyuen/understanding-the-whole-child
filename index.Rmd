@@ -1,13 +1,16 @@
---- 
+---
 title: "Understanding the Whole Child: Prenatal Development through Adolescence"
 author: "Jennifer Paris, Antoinette Ricardo, & Dawn Rymond"
 # date: "`r Sys.Date()`"
-book_filename: "understanding_the_whole_child"
-site: bookdown::bookdown_site
+# book_filename: "understanding_the_whole_child"
+description: "This developmental psychology textbook is about physical, cognitive, and social development during childhood and adolescence.  Bookdown adaptation by C. Nathalie Yuen."
+github-repo: nathalieyuen/understanding-the-whole-child
+cover-image: "cover.png"
 output:
   bookdown::gitbook:
     split_by: section
     config:
+      download: null
       search: yes
       sharing:
         facebook: no
@@ -19,16 +22,13 @@ output:
         vk: no
         whatsapp: no
         all: no
-#    download: ["pdf", "epub"]
-#    bookdown::epub_book: defaultalways_allow_html: true
+#  bookdown::epub_book: default
 always_allow_html: true
+site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
 biblio-style: apalike
 link-citations: yes
-description: "This developmental psychology textbook is about physical, cognitive, and social development during childhood and adolescence.  Bookdown adaptation by C. Nathalie Yuen."
-github-repo: nathalieyuen/understanding-the-whole-child
-cover-image: 'cover.png'
 ---
 
 ```{r setup, include=FALSE}
